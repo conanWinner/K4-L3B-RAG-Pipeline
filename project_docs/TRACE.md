@@ -156,3 +156,48 @@ Không ghi API key, access token, cookie, dữ liệu cá nhân hoặc toàn b�
   - Chưa kiểm tra thủ công toàn bộ bảng trong cả 3 PDF; `pdftotext -layout` đã giữ bố cục văn bản ở mức trích xuất được.
 - Bước tiếp theo:
   - Hoàn thành T02 với 4 bài news còn thiếu, chạy lại T03 và nghiệm thu đủ 3 legal + 5 news.
+
+## 2026-09-25 10:25 — T02/T03 — Bổ sung đủ corpus news và nghiệm thu chuẩn hóa
+
+- Người thực hiện: Codex
+- Mục tiêu: Bổ sung 4 bài PUBG Esports chính thức, crawl thành JSON và chuẩn hóa đủ corpus yêu cầu.
+- Trạng thái: DONE
+- Tệp thay đổi:
+  - `src/task2_crawl_news.py`
+  - `tests/test_task2_crawl_news.py`
+  - `data/landing/news/pubg_esports_2026_roadmap.json`
+  - `data/landing/news/pubg_global_series_7_8_overview.json`
+  - `data/landing/news/pubg_global_series_9_10_overview.json`
+  - `data/landing/news/pubg_2025_pgc_points_distribution.json`
+  - Bốn tệp Markdown tương ứng trong `data/standardized/news/`
+  - `project_docs/TASKS.md`
+  - `project_docs/TRACE.md`
+- Nguồn:
+  - `https://pubgesports.com/en/news/9640`
+  - `https://pubgesports.com/en/news/8452`
+  - `https://pubgesports.com/en/news/9243`
+  - `https://pubgesports.com/en/news/8264`
+- Thay đổi chính:
+  - Thêm 4 URL và tên output xác định vào cấu hình crawler.
+  - Bổ sung parser cho cấu trúc trang `pubgesports.com`, chỉ lấy tiêu đề và thân bài; không lấy menu hoặc điều hướng bài trước/sau.
+  - Crawl giới hạn đúng 4 trang mới; giữ nguyên JSON Terms of Service đã có.
+  - Chạy lại T03 để tạo đủ 3 legal Markdown và 5 news Markdown.
+- Kiểm tra:
+  - HTTP thực tế: cả 4 URL trả `200` và `text/html`.
+  - Lệnh: `PYTHONDONTWRITEBYTECODE=1 pytest tests/test_task2_crawl_news.py tests/test_task3_convert_markdown.py -q -p no:cacheprovider`
+  - Kết quả: `5 passed`.
+  - Hai acceptance riêng cho T02/T03: `2 passed`.
+  - Lệnh: `PYTHONDONTWRITEBYTECODE=1 pytest tests/test_contracts.py -q -p no:cacheprovider`
+  - Kết quả: `7 passed, 8 failed`; lỗi còn lại thuộc placeholder T04–T10.
+  - Lệnh: `PYTHONDONTWRITEBYTECODE=1 pytest tests/test_acceptance.py -q -p no:cacheprovider`
+  - Kết quả: `3 passed, 2 failed`; hai lỗi còn lại thuộc T12.
+  - Lệnh: `PYTHONDONTWRITEBYTECODE=1 pytest -q -p no:cacheprovider`
+  - Kết quả: `15 passed, 10 failed`; không có lỗi thuộc T02 hoặc T03.
+- Bằng chứng/dữ liệu:
+  - Corpus news có đủ 5 JSON, đều đủ `url`, `title`, `date_crawled`, `content_markdown`.
+  - Bốn bài mới có từ 1.672 đến 3.335 ký tự nội dung và không chứa footer được kiểm tra.
+  - Corpus chuẩn hóa có đủ 3 legal + 5 news, tất cả trên 200 ký tự.
+- Vấn đề còn lại:
+  - Toàn bộ test chưa pass vì T04–T10 và T12 chưa hoàn thiện; không thuộc phạm vi T02/T03.
+- Bước tiếp theo:
+  - Thực hiện T04: đọc Markdown, chia đoạn, embedding và lập chỉ mục.

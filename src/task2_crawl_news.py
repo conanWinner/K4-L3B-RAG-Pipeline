@@ -29,10 +29,18 @@ DATA_DIR = Path(__file__).parent.parent / "data" / "landing" / "news"
 
 ARTICLE_URLS = [
     "https://pubg.com/en/clause/term_of_service/label_steam/latest",
+    "https://pubgesports.com/en/news/9640",
+    "https://pubgesports.com/en/news/8452",
+    "https://pubgesports.com/en/news/9243",
+    "https://pubgesports.com/en/news/8264",
 ]
 
 OUTPUT_FILENAMES = {
     ARTICLE_URLS[0]: "pubg_terms_of_service.json",
+    ARTICLE_URLS[1]: "pubg_esports_2026_roadmap.json",
+    ARTICLE_URLS[2]: "pubg_global_series_7_8_overview.json",
+    ARTICLE_URLS[3]: "pubg_global_series_9_10_overview.json",
+    ARTICLE_URLS[4]: "pubg_2025_pgc_points_distribution.json",
 }
 
 REQUEST_TIMEOUT_SECONDS = 30
@@ -84,16 +92,26 @@ class ArticleHTMLParser(HTMLParser):
         self._article_depth = 0
         self._ignored_depth = 0
         self._parts: list[str] = []
+        self._title_depth = 0
+        self._title_parts: list[str] = []
 
     def handle_starttag(self, tag: str, attrs: list[tuple[str, str | None]]) -> None:
         attributes = dict(attrs)
         classes = set((attributes.get("class") or "").split())
 
-        if self._article_depth == 0 and tag == "article" and (
-            "content-template__content" in classes
-        ):
-            self._article_depth = 1
-            return
+        if "news-detail-header__title" in classes and self._title_depth == 0:
+            self._title_depth = 1
+        elif self._title_depth and tag not in self.VOID_TAGS:
+            self._title_depth += 1
+
+        if self._article_depth == 0:
+            is_pubg_article = (
+                tag == "article" and "content-template__content" in classes
+            )
+            is_esports_article = "news-detail-body__editor" in classes
+            if is_pubg_article or is_esports_article:
+                self._article_depth = 1
+                return
 
         if self._article_depth == 0:
             return
@@ -111,6 +129,9 @@ class ArticleHTMLParser(HTMLParser):
                 self._parts.append("\n")
 
     def handle_endtag(self, tag: str) -> None:
+        if self._title_depth and tag not in self.VOID_TAGS:
+            self._title_depth -= 1
+
         if self._article_depth == 0 or tag in self.VOID_TAGS:
             return
 
@@ -122,8 +143,14 @@ class ArticleHTMLParser(HTMLParser):
         self._article_depth -= 1
 
     def handle_data(self, data: str) -> None:
+        if self._title_depth:
+            self._title_parts.append(data)
         if self._article_depth and self._ignored_depth == 0:
             self._parts.append(data)
+
+    def title(self) -> str | None:
+        title = re.sub(r"\s+", " ", "".join(self._title_parts)).strip()
+        return title or None
 
     def markdown(self) -> str:
         lines = []
@@ -154,9 +181,14 @@ def _fetch_article(url: str) -> dict:
         raise ValueError(f"Main article content is missing or too short: {url}")
 
     content_lines = content.splitlines()
-    first_line = content_lines[0]
-    title = first_line if len(first_line) <= 200 else urlparse(url).netloc
-    body = "\n".join(content_lines[1:]).strip()
+    extracted_title = parser.title()
+    if extracted_title:
+        title = extracted_title
+        body = content
+    else:
+        first_line = content_lines[0]
+        title = first_line if len(first_line) <= 200 else urlparse(url).netloc
+        body = "\n".join(content_lines[1:]).strip()
     return {
         "url": url,
         "title": title,

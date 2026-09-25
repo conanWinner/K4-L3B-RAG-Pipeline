@@ -45,7 +45,7 @@ Không đánh dấu `DONE` chỉ vì đã viết code. Một task chỉ hoàn th
 
 ## T02 — Thu thập bài viết hoặc thông báo
 
-**Trạng thái:** IN_PROGRESS — bản demo đã crawl 1/5 URL
+**Trạng thái:** DONE
 
 **Tệp chính:** `src/task2_crawl_news.py`
 
@@ -61,7 +61,7 @@ Không đánh dấu `DONE` chỉ vì đã viết code. Một task chỉ hoàn th
 
 ## T03 — Chuẩn hóa dữ liệu sang Markdown
 
-**Trạng thái:** BLOCKED — code đã hoàn thiện; chờ T02 bổ sung đủ 4 bài news còn thiếu
+**Trạng thái:** DONE
 
 **Tệp chính:** `src/task3_convert_markdown.py`
 
