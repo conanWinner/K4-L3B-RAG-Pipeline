@@ -5,42 +5,48 @@ Dùng cùng corpus chunks với Task 5. BM25 phù hợp với từ khóa chính 
 liệu và tên riêng. Output phải theo SearchResult và sort score giảm dần.
 """
 
+import numpy as np
+from rank_bm25 import BM25Okapi
+
 
 CORPUS: list[dict] = []
 
 
-def build_bm25_index(corpus: list[dict]):
+def build_bm25_index(corpus: list[dict]) -> BM25Okapi:
     """Tạo BM25 index từ cùng corpus chunks của Task 4."""
-    # TODO: Tokenize và tạo BM25 index.
-    #
-    # from rank_bm25 import BM25Okapi
-    # tokenized = [item["content"].lower().split() for item in corpus]
-    # return BM25Okapi(tokenized)
-    raise NotImplementedError("Implement build_bm25_index")
+    tokenized = [item["content"].lower().split() for item in corpus]
+    return BM25Okapi(tokenized)
+
+
+def _term_overlap_score(query_terms: list[str], content: str) -> int:
+    """Count matching terms for tiebreaking when BM25 scores are equal."""
+    content_lower = content.lower()
+    return sum(1 for term in query_terms if term in content_lower)
 
 
 def lexical_search(query: str, top_k: int = 10) -> list[dict]:
     """Trả về BM25 SearchResult theo score giảm dần."""
-    # TODO: Tính BM25 scores và map lại corpus.
-    #
-    # import numpy as np
-    # bm25 = build_bm25_index(CORPUS)
-    # scores = bm25.get_scores(query.lower().split())
-    # indices = np.argsort(scores)[::-1][:top_k]
-    # results = []
-    # for index in indices:
-    #     if scores[index] <= 0:
-    #         continue
-    #     item = CORPUS[index]
-    #     results.append({
-    #         "id": item["id"],
-    #         "content": item["content"],
-    #         "score": float(scores[index]),
-    #         "metadata": item["metadata"],
-    #         "retrieval_method": "bm25",
-    #     })
-    # return results
-    raise NotImplementedError("Implement lexical_search")
+    corpus = CORPUS
+    if not corpus:
+        return []
+    query_terms = query.lower().split()
+    bm25 = build_bm25_index(corpus)
+    scores = bm25.get_scores(query_terms)
+    # Use term overlap as tiebreaker for equal BM25 scores
+    term_scores = [_term_overlap_score(query_terms, item["content"]) for item in corpus]
+    # Sort by (bm25_score, term_overlap) descending
+    indices = np.lexsort((term_scores, scores))[::-1][:top_k]
+    results = []
+    for index in indices:
+        item = corpus[index]
+        results.append({
+            "id": item["id"],
+            "content": item["content"],
+            "score": float(scores[index]),
+            "metadata": item["metadata"],
+            "retrieval_method": "bm25",
+        })
+    return results
 
 
 if __name__ == "__main__":

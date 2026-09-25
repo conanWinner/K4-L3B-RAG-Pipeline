@@ -1,0 +1,77 @@
+[
+  {
+    "question": "Câu hỏi mẫu 1 về chủ đề tài liệu pháp lý",
+    "expected_answer": "Câu trả lời dự kiến dựa trên nội dung tài liệu pháp lý.",
+    "expected_context": "Nội dung ngữ cảnh liên quan từ tài liệu pháp lý được thu thập."
+  },
+  {
+    "question": "Câu hỏi mẫu 2 về quy định học phí",
+    "expected_answer": "Câu trả lời dự kiến về quy định học phí.",
+    "expected_context": "Đoạn văn bản từ tài liệu pháp lý nêu rõ quy định học phí."
+  },
+  {
+    "question": "Câu hỏi mẫu 3 về chính sách đào tạo",
+    "expected_answer": "Câu trả lời dự kiến về chính sách đào tạo.",
+    "expected_context": "Nội dung ngữ cảnh từ tài liệu pháp lý về chính sách đào tạo."
+  },
+  {
+    "question": "Câu hỏi mẫu 4 về quy chế thi cử",
+    "expected_answer": "Câu trả lời dự kiến về quy chế thi cử.",
+    "expected_context": "Đoạn văn bản từ tài liệu pháp lý quy định về thi cử."
+  },
+  {
+    "question": "Câu hỏi mẫu 5 về quyền lợi sinh viên",
+    "expected_answer": "Câu trả lời dự kiến về quyền lợi sinh viên.",
+    "expected_context": "Nội dung ngữ cảnh từ tài liệu pháp lý về quyền lợi sinh viên."
+  },
+  {
+    "question": "Câu hỏi mẫu 6 về tin tức sự kiện 1",
+    "expected_answer": "Câu trả lời dự kiến dựa trên bài báo tin tức.",
+    "expected_context": "Nội dung ngữ cảnh từ bài báo tin tức đã thu thập."
+  },
+  {
+    "question": "Câu hỏi mẫu 7 về tin tức sự kiện 2",
+    "expected_answer": "Câu trả lời dự kiến từ bài báo thứ hai.",
+    "expected_context": "Đoạn văn bản từ bài báo tin tức thứ hai."
+  },
+  {
+    "question": "Câu hỏi mẫu 8 về tin tức sự kiện 3",
+    "expected_answer": "Câu trả lời dự kiến từ bài báo thứ ba.",
+    "expected_context": "Nội dung ngữ cảnh từ bài báo tin tức thứ ba."
+  },
+  {
+    "question": "Câu hỏi mẫu 9 về tin tức sự kiện 4",
+    "expected_answer": "Câu trả lời dự kiến từ bài báo thứ tư.",
+    "expected_context": "Đoạn văn bản từ bài báo tin tức thứ tư."
+  },
+  {
+    "question": "Câu hỏi mẫu 10 về tin tức sự kiện 5",
+    "expected_answer": "Câu trả lời dự kiến từ bài báo thứ năm.",
+    "expected_context": "Nội dung ngữ cảnh từ bài báo tin tức thứ năm."
+  },
+  {
+    "question": "Câu hỏi mẫu 11 kết hợp pháp lý và tin tức",
+    "expected_answer": "Câu trả lời dự kiến kết hợp thông tin từ cả hai nguồn.",
+    "expected_context": "Ngữ cảnh từ tài liệu pháp lý và bài báo tin tức liên quan."
+  },
+  {
+    "question": "Câu hỏi mẫu 12 về quy định mới nhất",
+    "expected_answer": "Câu trả lời dự kiến về quy định được cập nhật gần đây.",
+    "expected_context": "Đoạn văn bản từ tài liệu pháp lý mới nhất."
+  },
+  {
+    "question": "Câu hỏi mẫu 13 về quy trình hành chính",
+    "expected_answer": "Câu trả lời dự kiến về quy trình hành chính.",
+    "expected_context": "Nội dung ngữ cảnh mô tả quy trình hành chính."
+  },
+  {
+    "question": "Câu hỏi mẫu 14 về hỗ trợ sinh viên",
+    "expected_answer": "Câu trả lời dự kiến về chính sách hỗ trợ sinh viên.",
+    "expected_context": "Đoạn văn bản từ tài liệu về hỗ trợ sinh viên."
+  },
+  {
+    "question": "Câu hỏi mẫu 15 về kỷ luật và giải thưởng",
+    "expected_answer": "Câu trả lời dự kiến về quy định kỷ luật và giải thưởng.",
+    "expected_context": "Nội dung ngữ cảnh từ tài liệu quy định kỷ luật."
+  }
+]
