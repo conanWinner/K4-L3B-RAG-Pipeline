@@ -1,78 +1,6 @@
-PUBG GLOBAL CHAMPIONSHIP 2024
+# PUBG GLOBAL CHAMPIONSHIP 2024
                                      Tournament Rulebook
-
-                                             2024.12
-
-PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules           Page 1
-                                                    Table of Contents
-1        Introduction ................................................................................................................................ 4
-2        References .................................................................................................................................. 5
-3        Basic Information ....................................................................................................................... 5
-3.1      Tournament Schedule ................................................................................................................ 5
-4        Participants ................................................................................................................................. 5
-4.1      Team Eligibility ........................................................................................................................... 6
-4.1.1 Team Name / Team Tag ............................................................................................................... 6
-4.1.2 Sponsorships ................................................................................................................................ 7
-5        Format ......................................................................................................................................... 8
-5.1      Tournament format ..................................................................................................................... 8
-6        Match Schedule .......................................................................................................................... 9
-7        Map Order ................................................................................................................................... 9
-8        Prize Pool .................................................................................................................................. 10
-9        General Rules ........................................................................................................................... 11
-9.1      Hardware and Software ........................................................................................................... 11
-9.2      Player Apparel .......................................................................................................................... 12
-9.3      Event Stage Access ................................................................................................................. 13
-9.4      Event Stage Food and Drinks ................................................................................................. 13
-9.5      Photography and Recording ................................................................................................... 13
-9.6      Violations of Rules & Regulations / Punishments ................................................................ 14
-10       Before the Competition............................................................................................................ 16
-10.1     Tournament Period ................................................................................................................... 16
-10.1.1 Compliance with Official Schedule ............................................................................................. 16
-10.1.2 Use of Accommodations and Official Event Facilities ................................................................ 16
-11       Before Match ............................................................................................................................. 16
-11.1     Set-up Time ............................................................................................................................... 16
-11.2     Check-In .................................................................................................................................... 16
-11.3     Mobile Phones and Electronic Devices ................................................................................. 17
-11.4     Health-Related Electronic Devices ......................................................................................... 17
-12       During Match ............................................................................................................................ 17
-12.1     Match Support .......................................................................................................................... 17
-
- PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                                                                                                    Page 2
-12.2      Remaining Seated .................................................................................................................... 17
-12.3      TeamSpeak Channel ................................................................................................................ 17
-12.4      Headsets and Gears ................................................................................................................. 17
-12.5      In-Game Skins .......................................................................................................................... 17
-12.6      Internet Access and Applications ........................................................................................... 18
-12.7      Streaming .................................................................................................................................. 18
-12.8      PC Reboot ................................................................................................................................. 19
-12.9      Rematch .................................................................................................................................... 19
-12.10 Disconnection ........................................................................................................................... 19
-12.10.1           Early-Match Disconnection ............................................................................................... 19
-12.10.2           Large-Scale Disconnection ............................................................................................... 19
-12.11 Compensation Point, “CP” ...................................................................................................... 20
-12.12 Tiebreaker ................................................................................................................................. 20
-12.13 Observers .................................................................................................................................. 21
-12.14 Replay and Match Data ............................................................................................................ 21
-12.15 Bugs........................................................................................................................................... 21
-12.16 Cheats ....................................................................................................................................... 21
-12.17 Adherence to Rules.................................................................................................................. 22
-13        After Match ................................................................................................................................ 22
-13.1      Results ...................................................................................................................................... 22
-13.2      Disputes .................................................................................................................................... 22
-13.3      Interviews and Other Post-Match Obligations ...................................................................... 22
-13.4      Breaks Between Matches ........................................................................................................ 22
-14        Supplementary Rules............................................................................................................... 23
-14.1      Host’s Rights ............................................................................................................................ 23
-14.2      Relationship of Rights and Duties .......................................................................................... 23
-14.3      Promotions ............................................................................................................................... 23
-14.4      Confidentiality .......................................................................................................................... 24
-14.5      Defamation ................................................................................................................................ 24
-14.6      Quitting Competition................................................................................................................ 24
-14.6.1 Quitting ....................................................................................................................................... 24
-14.6.2 Interfering with the Competition ................................................................................................. 24
-
- PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                                                                                                    Page 3
-1 Introduction
+## 1 Introduction
 PUBG GLOBAL CHAMPIONSHIP 2024 (“PGC” or “Competition” or “Tournament”) is a
 PUBG Esports Competition that is governed by the Standard and Universal PUBG Esports
 Ruleset (“SUPER”). The PUBG GLOBAL CHAMPIONSHIP 2024 Tournament Rulebook is
@@ -102,8 +30,7 @@ This rule may be translated into other languages for reference purposes. In the 
 conflict or discrepancy arising from the translation or interpretation of this rule, the English
 language version shall prevail and be considered the authoritative and binding version.
 
- PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                                            Page 4
-2 References
+## 2 References
 Throughout this document you will find references that identify certain responsible parties.
 These parties are defined below.
        Host – The Host refers to KRAFTON, which hosts PGC
@@ -119,23 +46,23 @@ These parties are defined below.
          rulings made by a Referee from the Head Referee. The Head Referee will escalate
          any issues or clarifications to Administration as needed.
 
-3 Basic Information
- Event Name                     PUBG GLOBAL CHAMPIONSHIP 2024
- Competition Dates              Dec 9 - Dec 22, 2024
- Competition Location           Kuala Lumpur, Malaysia
- Participating Teams            24 Teams
- Prize Pool                     $1,500,000 + @ Pick’em Crowd funding (25% PUBG’s Sales)
- Game Patch                     #32.2 (2024.11.21 Update)
+## 3 Basic Information
+| Event Name | PUBG GLOBAL CHAMPIONSHIP 2024 |
+| --- | --- |
+| Competition Dates | Dec 9 - Dec 22, 2024 |
+| Competition Location | Kuala Lumpur, Malaysia |
+| Participating Teams | 24 Teams |
+| Prize Pool | $1,500,000 + @ Pick’em Crowd funding (25% PUBG’s Sales) |
+| Game Patch | #32.2 (2024.11.21 Update) |
 
-    3.1 Tournament Schedule
+### 3.1 Tournament Schedule
                               PUBG GLOBAL CHAMPIONSHIP 2024
-                                    DATE                                  EVENT
-                                 12/09 - 12/11                            Circuit 1
- League Progress                 12/12 - 12/14                            Circuit 2
-                                 12/16 - 12/18                            Circuit 3
-                                 12/20 - 12/22                          Grand Finals
+| Column 1 | Column 2 | Column 3 |
+| --- | --- | --- |
+|  | DATE<br>12/09 - 12/11 | EVENT<br>Circuit 1 |
+| League Progress | 12/12 - 12/14<br>12/16 - 12/18<br>12/20 - 12/22 | Circuit 2<br>Circuit 3<br>Grand Finals |
 
-4 Participants
+## 4 Participants
 A total of twenty-four (24) teams will participate in the Competition. Each team may consist
 of four (4) players, one coach and manager for a total of six (6) people based on the PGS
 5(6) or Regional Series Roster. Rosters must be submitted to Administration by the
@@ -145,7 +72,6 @@ The team may register the coach as a substitute player in case of an emergency. 
 remain entirely up to the team's discretion to decide whether to employ the substitute player
 on each day of the competition.
 
- PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                                          Page 5
     •    Manager
          -  Manager is the representative of the team who is responsible for the overall
             management of the team. The Manager acts as the first contact point for all
@@ -168,18 +94,19 @@ on each day of the competition.
 
 The details of regional competition slots are as follows.
                             PUBG GLOBAL CHAMPIONSHIP 2024
-         Region             Regional Series     PGS                              Total
-           KR                      3
-           CN                      4
-         EMEA                      3
-                                                 8
-           AM                      2
-         APAC                      3
-        Wild card                  1
-          Total                   16             8                                24
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| --- | --- | --- | --- |
+| Region | Regional Series | PGS | Total |
+| KR | 3 |  |  |
+| CN | 4 |  |  |
+| EMEA | 3 | 8 |  |
+| AM | 2 |  |  |
+| APAC | 3 |  |  |
+| Wild card | 1 |  |  |
+| Total | 16 | 8 | 24 |
 
-    4.1 Team Eligibility
-         4.1.1 Team Name / Team Tag
+### 4.1 Team Eligibility
+#### 4.1.1 Team Name / Team Tag
          All teams are prohibited from using team names that are identical, similar, or related
           to KRAFTON or PUBG. Team names that may be confused with third-party
           services, as determined by the reasonable judgment of the Administration, are also
@@ -190,7 +117,7 @@ The details of regional competition slots are as follows.
           restricted from participating in the Competition at the discretion of the
           Administration in case of violation of these obligations.
          The team tag is an abbreviated representation of a team name consisting of two to
- PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                                           Page 6
+
             four alphabetic characters or Arabic numerals. Teams are prohibited from having a
             team tag that is identical to another team’s team tag regardless of whether the two
             teams are from different regions.
@@ -203,7 +130,7 @@ The details of regional competition slots are as follows.
             event.
            During the tournament period, the sale or transfer of the team, the change of
             ownership, or the transfer of the rights of participating teams are prohibited.
-       4.1.2 Sponsorships
+#### 4.1.2 Sponsorships
        Subject to the limitations detailed below in this Section 4.1.2 or in any agreement
        concluded with KRAFTON, including but not limited to the Team’s Team Participation
        Agreement, a team and its players can have sponsors, and there is no limit on the
@@ -238,9 +165,9 @@ The details of regional competition slots are as follows.
        and ensuring those sponsorships comply with applicable laws. The Host and
        Administration are not responsible or liable for any team’s choice or use of such
        sponsors.
-PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                                              Page 7
-5 Format
-   5.1 Tournament format
+
+## 5 Format
+### 5.1 Tournament format
    The formats PGC 2024 will be identical, as outlined below:
    The competition will be divided into two stages: the Circuit system and the Grand Finals.
    The overall ranking will be determined in order of the total points earned in Grand
@@ -271,51 +198,46 @@ PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                              
        At the end of Circuit 3, the top 16 teams with the highest total points across the three
        Circuit Finals will advance to the Grand Finals.
 
-PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                                            Page 8
        Grand Finals – Sixteen teams are competing in Grand Finals with eighteen (18)
         matches for three (3) days. The overall ranking of PGC 2024 will be determined in
         order of the total points earned in Grand Finals
 
-6 Match Schedule
+## 6 Match Schedule
 Each day of the Competition will follow the same match schedule. Match start times may be
 rescheduled depending on any accelerations or delays in the production schedule. The
 match schedule plan is listed below.
 
                                                Expected start time
 
-                            EMEA -                          SEA-
-                GMT                    SEA - ICT                          CN - CST    KR - KST
- ALL                         CET                        MYT(Malaysia)
-Matches
-                GMT         GMT+1       GMT+7                GMT+8        GMT+8       GMT+9
+| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 | Column 6 |
+| --- | --- | --- | --- | --- | --- |
+|  | EMEA - |  | SEA- |  |  |
+| GMT |  | SEA - ICT |  | CN - CST | KR - KST |
+| ALL | CET |  | MYT(Malaysia) |  |  |
+| Matches |  |  |  |  |  |
+| GMT | GMT+1 | GMT+7 | GMT+8 | GMT+8 | GMT+9 |
+| 11:00 | 12:00 | 18:00 | 19:00 | 19:00 | 20:00 |
 
-               11:00        12:00          18:00             19:00         19:00       20:00
-
-7 Map Order
+## 7 Map Order
 The map order for each day of the Competition is listed below.
 
                                        Circuit 1-3 (E6/M6/T3/R3)
 
-                  Match 1        Match 2           Match 3      Match 4     Match 5     Match 6
-
-    Day 1         Erangel        Erangel            Taego        Rondo      Miramar     Miramar
-
-    Day 2         Miramar        Miramar           Rondo         Taego      Erangel     Erangel
-
-    Day 3         Erangel        Erangel            Taego        Rondo      Miramar     Miramar
+|  | Match 1 | Match 2 | Match 3 | Match 4 | Match 5 | Match 6 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Day 1 | Erangel | Erangel | Taego | Rondo | Miramar | Miramar |
+| Day 2 | Miramar | Miramar | Rondo | Taego | Erangel | Erangel |
+| Day 3 | Erangel | Erangel | Taego | Rondo | Miramar | Miramar |
 
                                      Grand Finals (E6/M6/T3/R3)
 
-                  Match 1        Match 2           Match 3      Match 4     Match 5     Match 6
+|  | Match 1 | Match 2 | Match 3 | Match 4 | Match 5 | Match 6 |
+| --- | --- | --- | --- | --- | --- | --- |
+| Day 1 | Miramar | Miramar | Taego | Rondo | Erangel | Erangel |
+| Day 2 | Erangel | Erangel | Rondo | Taego | Miramar | Miramar |
+| Day 3 | Miramar | Miramar | Taego | Rondo | Erangel | Erangel |
 
-    Day 1         Miramar        Miramar            Taego        Rondo      Erangel     Erangel
-
-    Day 2         Erangel        Erangel           Rondo         Taego      Miramar     Miramar
-
-    Day 3         Miramar        Miramar            Taego        Rondo      Erangel     Erangel
-
- PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                                          Page 9
-8 Prize Pool
+## 8 Prize Pool
 The prize pool for the Competition consists of a guaranteed prize pool and crowdfunded
 prize pool. The guaranteed prize pool of $1,500,000 (USD) will be distributed to participants
 based on the final placement. The crowdfunded prize pool is an additional, fan-funded
@@ -326,38 +248,37 @@ money from all teams. The prize pool amount will be paid minus any taxes and wit
 and the related agreement must be completed and signed by all players and the authorized
 team representative from each respective team before payment can be issued.
 
-     Rank             Prize             %
-       1           $500,000          33.33%
-       2           $150,000          10.00%
-       3           $120,000           8.00%
-       4           $100,000           6.67%
-       5            $78,000           5.20%
-       6            $66,000           4.40%
-       7            $55,000           3.67%
-       8            $45,000           3.00%
-       9            $37,000           2.47%
-      10            $36,000           2.40%
-      11            $35,000           2.33%
-      12            $34,000           2.27%
-      13            $33,000           2.20%
-      14            $32,000           2.13%
-      15            $31,000           2.07%
-      16            $30,000           2.00%
-      17            $17,000           1.13%
-      18            $16,000           1.07%
-      19            $15,000           1.00%
-      20            $14,000           0.93%
-      21            $13,000           0.87%
-      22            $12,000           0.80%
+| Rank | Prize | % |
+| --- | --- | --- |
+| 1 | $500,000 | 33.33% |
+| 2 | $150,000 | 10.00% |
+| 3 | $120,000 | 8.00% |
+| 4 | $100,000 | 6.67% |
+| 5 | $78,000 | 5.20% |
+| 6 | $66,000 | 4.40% |
+| 7 | $55,000 | 3.67% |
+| 8 | $45,000 | 3.00% |
+| 9 | $37,000 | 2.47% |
+| 10 | $36,000 | 2.40% |
+| 11 | $35,000 | 2.33% |
+| 12 | $34,000 | 2.27% |
+| 13 | $33,000 | 2.20% |
+| 14 | $32,000 | 2.13% |
+| 15 | $31,000 | 2.07% |
+| 16 | $30,000 | 2.00% |
+| 17 | $17,000 | 1.13% |
+| 18 | $16,000 | 1.07% |
+| 19 | $15,000 | 1.00% |
+| 20 | $14,000 | 0.93% |
+| 21 | $13,000 | 0.87% |
+| 22 | $12,000 | 0.80% |
+| 23 | $11,000 | 0.73% |
+| 24 | $10,000 | 0.67% |
+| MVP | $10,000 | 0.67% |
+| Total | $1,500,000 | 100.00% |
 
- PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                                         Page 10
-     23            $11,000           0.73%
-     24            $10,000           0.67%
-    MVP            $10,000           0.67%
-    Total        $1,500,000         100.00%
-
-9 General Rules
-   9.1 Hardware and Software
+## 9 General Rules
+### 9.1 Hardware and Software
    The following hardware will be provided for use during all tournament matches and
    practice matches. Players must use the provided hardware during all tournament
    matches and scheduled practice matches.
@@ -392,7 +313,7 @@ team representative from each respective team before payment can be issued.
     permitted. Players may not connect any device other than a mouse, keyboard, in-ear
     buds, and/or soundcard to their PC without explicit permission from Administration. All
     player-provided hardware must function properly without an internet connection.
-PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                                        Page 11
+
     Players will be given an opportunity to install any necessary drivers during a designated
     setup and testing period.
 
@@ -416,7 +337,7 @@ PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                              
     All software installations are subject to inspection and approval by the Administration.
     Players may not alter game files, modify drivers, or change the video settings in
     Windows without explicit approval from the Administration.
-   9.2 Player Apparel
+### 9.2 Player Apparel
    All players must always wear their pro-team jersey while on stage and during any media
    appearances. Players must also always wear pants and closed-toed shoes while on
    stage. Sandals are prohibited. Players are solely responsible for their own apparel,
@@ -438,7 +359,6 @@ PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                              
              Player apparel may not include any content that is considered defamatory,
               obscene, vulgar, repulsive, offensive, disruptive, politically insensitive by the
 
-PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                                          Page 12
               Administration or Host in their sole discretion, or which refers to things a
               reasonable person might consider socially unacceptable.
              Player apparel may not include content which promotes discrimination, hate,
@@ -466,7 +386,7 @@ PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                              
 
        Player apparel may not include any content that otherwise relates to companies or
        individuals that would be ineligible to be sponsors.
-   9.3 Event Stage Access
+### 9.3 Event Stage Access
    The Event Stage refers to the official Competition area. Only players, Referees, Head
    Referee, and Administration can enter the stage. Any additional personnel must be
    given explicit permission by the Administration before entering the stage. Only the four
@@ -477,14 +397,14 @@ PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                              
    the stage. Any individual who fails to do so in a timely manner is subject to punishment.
    No props, ornaments, signs, banners, flags, or any other items that could cause a
    distraction are allowed on stage, unless approved by the Administration.
-   9.4 Event Stage Food and Drinks
+### 9.4 Event Stage Food and Drinks
    Bringing in or consuming food is prohibited on stage.
-   9.5 Photography and Recording
+### 9.5 Photography and Recording
    Photography and/or audiovisual recording of any kind is not permitted without the prior
    written consent of the Administration. Any unauthorized recording of any kind will result
    in strict punishment.
-PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                                          Page 13
-   9.6 Violations of Rules & Regulations / Punishments
+
+### 9.6 Violations of Rules & Regulations / Punishments
    Participants who fail to abide by these official rules or Code of Conduct may be subject
    to penalties, fines, suspensions, or bans as deemed necessary and appropriate by the
    Administration.
@@ -527,93 +447,32 @@ PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                              
          -   Ban(s) of Individual Player(s)
          -   Ban(s) of Team(s)
 
-PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                                             Page 14
                                                  Example of Penalty Standards
 
- Classification                                             Description                                            Level of Penalties
+| Classification | Description | Level of Penalties |
+| --- | --- | --- |
+| Tardiness | Failure to take a seat or enter in the lobby by the time specified by the Administration | Caution |
+| In-Game<br>Apparel | Wearing in-game apparel (skins) other than those specified by the Administration | Caution |
+| Termination of<br>the game(s) | Switching between windows (Alt+Tab, Ctrl+ESC) or intentionally terminating game(s),<br>Alt+Tab or Ctrl+ESC may be permitted if players are experiencing technical issues but a<br>Referee must be notified | Caution |
+|  | Intentionally interfering with the Competition or failing to reasonably cooperate in the<br>participation of the Competition | Administration’s<br>discretion |
+| Interference | Failure to reasonably cooperate in the participation of programs and sub-programs related<br>to the Competition<br>(use of devices such as a metal detector or heart rate program)<br>Failing to participate professionally in official or rehearsal matches<br>(includes suicide, teamkilling, deliberate rejection of play) | Administration’s<br>discretion<br>Administration’s<br>discretion |
+|  | Failure/Late to participate any Tournament relate event (including official matches, scrims,<br>media event, ect. ) | Administration’s<br>discretion |
+| Use of electronic<br>devices | Bring in or using electronic devices in the venue during a match (including mobile phones,<br>tablets, and electronic cigarettes) | Caution — Warning |
+| Smoke in the<br>Tournament<br>area | Smoking (including using the electronic cigarettes) in the Tournament area or any other<br>non-smoking area in the venue | Caution — Warning |
+| Violations of<br>Rules | Other failures to comply with the Rules | Administration’s<br>discretion |
+| Rigging | Entrusting your account to another player to participate in the game, regardless of<br>whether the participant was financially compensated | Up to indefinite<br>suspension |
+| Cheating | The act of elevating the game performance through actions that are not relevant to the<br>player’s own ability | Up to indefinite<br>suspension |
+| Harassment | Making statements that are threatening, defamatory, insulting, or offensive | Administration’s<br>discretion |
+| Discrimination | Words, actions, or similar acts that insult the dignity of a private person or group of<br>people, such as race, nation, social origin, or gender, or contain political or religious<br>derogatory messages | Up to permanent ban |
+| Use of illegal<br>programs | Production and distribution of illegal, unauthorized programs such as hacks<br>Intentional use of illegal, unauthorized programs such as hacks and known bugs | Up to permanent ban<br>Up to permanent ban |
+| Match-fixing | Any form of intentionally fixing the results of matches, regardless of whether the<br>participant was financially compensated<br>Conspiring with or conniving at match-fixing | Up to permanent ban<br>Up to permanent ban |
+| Collusion | Arranging to impede fair competition or exchange financial compensation by two or more<br>individuals, including players, coaching staff, the secretariat, and third parties | Up to permanent ban |
+| Violence and<br>Crime | Violence, sexual actions, or harassment that may offend others | Up to permanent ban |
+| Legal Violations | Violations of applicable law | Up to permanent ban |
 
-   Tardiness          Failure to take a seat or enter in the lobby by the time specified by the Administration           Caution
-
-    In-Game
-                        Wearing in-game apparel (skins) other than those specified by the Administration                 Caution
-     Apparel
-
-                      Switching between windows (Alt+Tab, Ctrl+ESC) or intentionally terminating game(s),
- Termination of
-                     Alt+Tab or Ctrl+ESC may be permitted if players are experiencing technical issues but a             Caution
-  the game(s)
-                                                  Referee must be notified
-
-                      Intentionally interfering with the Competition or failing to reasonably cooperate in the       Administration’s
-                                                   participation of the Competition                                    discretion
-
-                    Failure to reasonably cooperate in the participation of programs and sub-programs related
-                                                                                                                     Administration’s
-                                                        to the Competition
-                                                                                                                       discretion
-                                  (use of devices such as a metal detector or heart rate program)
-  Interference
-                                Failing to participate professionally in official or rehearsal matches               Administration’s
-                                     (includes suicide, teamkilling, deliberate rejection of play)                     discretion
-
-                    Failure/Late to participate any Tournament relate event (including official matches, scrims,     Administration’s
-                                                         media event, ect. )                                           discretion
-
-Use of electronic   Bring in or using electronic devices in the venue during a match (including mobile phones,
-                                                                                                                   Caution — Warning
-    devices                                       tablets, and electronic cigarettes)
-
- Smoke in the
-                     Smoking (including using the electronic cigarettes) in the Tournament area or any other
- Tournament                                                                                                        Caution — Warning
-                                                non-smoking area in the venue
-    area
-
-  Violations of                                                                                                      Administration’s
-                                              Other failures to comply with the Rules
-     Rules                                                                                                             discretion
-
-                        Entrusting your account to another player to participate in the game, regardless of          Up to indefinite
-    Rigging
-                                      whether the participant was financially compensated                             suspension
-
-                     The act of elevating the game performance through actions that are not relevant to the          Up to indefinite
-   Cheating
-                                                      player’s own ability                                            suspension
-
-                                                                                                                     Administration’s
-  Harassment                Making statements that are threatening, defamatory, insulting, or offensive
-                                                                                                                       discretion
-
-                       Words, actions, or similar acts that insult the dignity of a private person or group of
- Discrimination        people, such as race, nation, social origin, or gender, or contain political or religious   Up to permanent ban
-                                                      derogatory messages
-
-                           Production and distribution of illegal, unauthorized programs such as hacks             Up to permanent ban
- Use of illegal
-  programs
-                        Intentional use of illegal, unauthorized programs such as hacks and known bugs             Up to permanent ban
-
-                         Any form of intentionally fixing the results of matches, regardless of whether the
-                                                                                                                   Up to permanent ban
-                                             participant was financially compensated
-  Match-fixing
-                                            Conspiring with or conniving at match-fixing                           Up to permanent ban
-
-                    Arranging to impede fair competition or exchange financial compensation by two or more
-   Collusion                                                                                                       Up to permanent ban
-                         individuals, including players, coaching staff, the secretariat, and third parties
-
- Violence and                    Violence, sexual actions, or harassment that may offend others                    Up to permanent ban
-
-            PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                                                            Page 15
-    Crime
-
-Legal Violations                              Violations of applicable law                         Up to permanent ban
-
-          10 Before the Competition
-               10.1 Tournament Period
-                    10.1.1 Compliance with Official Schedule
+## 10 Before the Competition
+### 10.1 Tournament Period
+#### 10.1.1 Compliance with Official Schedule
 
                The PGC schedule will officially take effect from the date that participating teams enter
                Malaysia. All teams are obligated to comply with the laws of Malaysia. Violations of the
@@ -623,15 +482,15 @@ Legal Violations                              Violations of applicable law      
                cooperate in all preparations for the Tournament, including profile photo shoots,
                interviews, orientation, and official scrims. Teams that refuse the official schedule
                without an unavoidable reason will be subject to penalties.
-                    10.1.2 Use of Accommodations and Official Event Facilities
+#### 10.1.2 Use of Accommodations and Official Event Facilities
 
                When using facilities such as hotel rooms or competition zones, the teams must comply
                with the user guide for each and try to prevent damage or loss of facilities and
                equipment. If the facility is damaged or lost, the responsible team is obligated to
                compensate according to the extent of the damage.
 
-          11 Before Match
-               11.1 Set-up Time
+## 11 Before Match
+### 11.1 Set-up Time
                Players will have designated blocks of time prior to their match time to ensure they are
                fully prepared. The Administration may change the schedule due to broadcast related
                issues or other reasonable grounds. Once the player has finished setting up and testing
@@ -644,13 +503,13 @@ Legal Violations                              Violations of applicable law      
                At the end of each day's test matches, all players will be required to sign the Player
                Setup Checklist. Signing the Player Setup Checklist indicates that the player has
                completed the setup and adjustments.
-               11.2 Check-In
+### 11.2 Check-In
                Scheduling is essential to the efficient operation, commercial viability, and integrity of the
                Competition. All players must be seated to play the match by the time required by the
                Administration and ready to compete on stage five (5) minutes prior to the start of a
                match. Teams who fail to field a full and eligible roster five (5) minutes prior to the start
                of a match may be subject to penalties. The Administration reserves the right to amend
-            PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                                            Page 16
+
    the match start times. Match start times may be adjusted depending on any
    accelerations or delays in the production schedule. The Administration will communicate
    changes to the match schedule to all Participants. Once players have checked in for a
@@ -660,38 +519,38 @@ Legal Violations                              Violations of applicable law      
    designated rest periods.
    The team can participate in a match with a minimum of three squad members.
    Team’s coach can participate in the match as a player if qualified.
-   11.3 Mobile Phones and Electronic Devices
+### 11.3 Mobile Phones and Electronic Devices
    No mobile phones or electronic devices (including e-cigarettes) are allowed on the
    stage. All players must store their mobile phones and/or electronic devices in designated
    locations before entering the Tournament area. All devices will be returned upon exiting
    the Tournament area.
-   11.4 Health-Related Electronic Devices
+### 11.4 Health-Related Electronic Devices
    If it is necessary to bring an electronic device into the stage due to a health issue, it is
    allowed only after obtaining prior approval from the Administration.
 
-12 During Match
-   12.1 Match Support
+## 12 During Match
+### 12.1 Match Support
    A player may report any issue during a match by raising a hand to a Referee. The
    Referee will then decide how to best address the issue.
-   12.2 Remaining Seated
+### 12.2 Remaining Seated
    Players must always remain seated during a match and not leave their seats until given
    explicit permission by a Referee following the completion of a match.
-   12.3 TeamSpeak Channel
+### 12.3 TeamSpeak Channel
    Each team is permitted to have a maximum of two people other than players in the
    team’s TeamSpeak channel. From the start of the match until the team is eliminated,
    only the four players are allowed to speak in the channel and the Administration will
    mute all individuals in the channel except for the players.
-   12.4 Headsets and Gears
+### 12.4 Headsets and Gears
    Players must always wear their own private headsets while they are playing and are
    allowed to take off the headsets once all team members are eliminated. Headsets must
    always be unobstructed and in plain sight during a match. Removing headsets during an
    official match may be subject to penalties. Using additional gears such as gaming
    microphones, or exemption of wearing headsets due to players’ physical disease, it is
    subject to the approval by the Administration.
-   12.5 In-Game Skins
+### 12.5 In-Game Skins
    Players must wear in-game items designated by the Administration for all matches.
    After a player leaves the in-game lobby, his or her character must remain fully clothed in
-PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                                             Page 17
+
    the game for the remainder of the match. Clothing exchanges for cosmetic purposes or
    comic effects are not permitted inside the game.
    It is strictly prohibited to take off any part of the outfit during the match. Dismantling or
@@ -699,13 +558,13 @@ PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                              
 
    PGC 2024 SET 1, 2
 
-   12.6 Internet Access and Applications
+### 12.6 Internet Access and Applications
    During a match, players may not run a web browser or any application other than the
    PUBG client, the necessary drivers or software, and team communication solutions.
-   12.7 Streaming
+### 12.7 Streaming
 
    Players’ individual screens and voices, including the Competition footage, may be
-PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                                              Page 18
+
    broadcasted only by Administration, Host, or those with approval from the Host (reruns,
    VOD, etc.) programming through public TV and online platforms, and may be used after
    editing. The broadcasting platform is determined at the discretion of the Host.
@@ -713,21 +572,21 @@ PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                              
    streaming contract or management contract of the team or the player, and any problems
    arising from contracts Teams or players may have with third parties are the sole
    responsibility of the respective teams or players.
-   12.8 PC Reboot
+### 12.8 PC Reboot
    Players may not turn off their computer or reboot the game client without explicit
    permission from a Referee.
-   12.9 Rematch
+### 12.9 Rematch
    The Administration reserves the right to call for a rematch if multiple players experience
    lag or glitches, if the game server is deemed unstable, in the event of a power
    interruption, or if there are extreme circumstances in which a full match restart is
    necessary to retain the competitive integrity of the Competition per the sole discretion of
    Administration.
-   12.10 Disconnection
+### 12.10 Disconnection
    Intentionally disconnecting from the PUBG game client or server during an official match
    is strictly prohibited and may be subject to penalties. If any player disconnects before all
    64 players have landed successfully, the match shall be restarted. Once all 64 players
    have landed successfully, the match is considered to have officially started.
-        12.10.1 Early-Match Disconnection
+#### 12.10.1 Early-Match Disconnection
        If a player experiences a disconnection after a match has officially started, the player
        must notify a Referee immediately by raising a hand. The Referee will attempt to
        reconnect the player. The match must continue normally whether the player is able
@@ -743,17 +602,17 @@ PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                              
             disconnection for multiple players
        Other cases that are approved for a rematch according to the reasonable judgment
        of the Administration
-           12.10.2 Large-Scale Disconnection
+#### 12.10.2 Large-Scale Disconnection
       If all alive teams, all but one (1) alive teams, or ten (10) or more alive players
       disconnect simultaneously, the match must be immediately terminated. A rematch that
       consists only of the players who were still alive at the exact time of the large-scale
       disconnection must be conducted. If any player is discovered to have been
       responsible for the cause of the large-scale disconnection, that player will be
-PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                                                       Page 19
+
         excluded from the rematch. The results of the rematch will be added to the results of
         the match in which the large-scale disconnection took place to determine the final
         results of the match.
-   12.11 Compensation Point, “CP”
+### 12.11 Compensation Point, “CP”
      Due to official computer or game issues, in the case of a mandatory game restart or
      automatic game restart, if a player is eliminated during the reconnection process, the
      team to which the player belongs may be awarded compensation points.
@@ -778,7 +637,7 @@ PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                              
           for that match day.
      At least one (1) and at most four (4) CP will be awarded for every critical
      disconnection.
-   12.12 Tiebreaker
+### 12.12 Tiebreaker
     -     Match Point
           1 The ranking for each Match is determined by the total Match Points (Placement + Kill
               Point) earned.
@@ -786,25 +645,21 @@ PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                              
     -     Accumulated Points
            1 The final ranking is determined by the accumulated Match Points (Placement Point +
               Kill Point) for all matches.
-           2   If ① is a tie, teams with the higher accumulated Placement Point (excluding the Kill
-               Point) in all matches will be ranked higher.
-           3   If ② is a tie, teams with the higher Match Point (Placement Point + Kill Point) on the
-               most recent match will be ranked higher.
-           4   If ③ is a tie, teams with the higher Placement point on the most recent match will be
-               ranked higher.
-           5   If ④ is a tie, teams with the higher Total Damage on the most recent match will be
-               ranked higher.
+| 2 | If ① is a tie, teams with the higher accumulated Placement Point (excluding the Kill<br>Point) in all matches will be ranked higher. |
+| --- | --- |
+| 3 | If ② is a tie, teams with the higher Match Point (Placement Point + Kill Point) on the<br>most recent match will be ranked higher. |
+| 4 | If ③ is a tie, teams with the higher Placement point on the most recent match will be<br>ranked higher. |
+| 5 | If ④ is a tie, teams with the higher Total Damage on the most recent match will be<br>ranked higher. |
 
-PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                                                Page 20
-   12.13 Observers
+### 12.13 Observers
    Only the observers who have been explicitly authorized by the Administration will be
    allowed to join the game server.
-   12.14 Replay and Match Data
+### 12.14 Replay and Match Data
    All players must have and activate the in-game replay feature for the Competition. All
    replays and screenshots of the match will be saved for 14 days from the end of the
    Tournament. The Administration reserves the right to request replays or screenshots at
    any time within 14 days.
-   12.15 Bugs
+### 12.15 Bugs
    Even in the case of a bug negatively affecting a player, there shall be no rematch or
    solution available to the player.
    If a bug is found by a player during a match, it shall be notified immediately to the
@@ -813,7 +668,7 @@ PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                              
    If players deliberately use a bug during a game to gain an advantage in the game, it will
    be regarded as cheating and will be penalized. The level of penalty is determined by the
    level of fraudulent behavior.
-   12.16 Cheats
+### 12.16 Cheats
      The use of cheats is forbidden during the Competition. The use of a cheat will result in
      bans and/or disqualifications. For purposes of clarity, a cheat is any program,
      software, code, or hack that gives players a competitive advantage over their
@@ -839,16 +694,15 @@ PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                              
       If a team uses a player that has an active ban by PUBG, the team will be disqualified
       from the Tournament.
 
-PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                                                Page 21
-   12.17 Adherence to Rules
+### 12.17 Adherence to Rules
    During a match, Referees and Head Referees will make rulings to the best of their
    judgment to ensure the matches are completed in adherence to the Rules. These
    rulings must be adhered to by the Participants during a match.
 
-13 After Match
-   13.1 Results
+## 13 After Match
+### 13.1 Results
    Official match results will be posted on the website in accordance with the procedures.
-   13.2 Disputes
+### 13.2 Disputes
    Participants who wish to contest a ruling made by the Administration, believe a rule has
    been violated, or believe tournament integrity has been jeopardized in any way
    (“Disputing Party”) may open a dispute.
@@ -868,7 +722,7 @@ PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                              
        the final rankings are calculated for that respective stage, whichever happens first.
   4.   At this point, the ruling will become final.
 
-   13.3 Interviews and Other Post-Match Obligations
+### 13.3 Interviews and Other Post-Match Obligations
    Players will be informed of any post-match obligations, including, but not limited to,
    media appearances, interviews, or further discussion of any match matters as
    determined by the Administration. Interpreters, managers and/or coaches can be
@@ -876,20 +730,20 @@ PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                              
    Interviews will be made public worldwide, just as the official matches. If a player violates
    the rules of conduct during the interview, such as exhibiting indecent, discriminatory, and
    violent words and behavior, the player will be penalized.
-   13.4 Breaks Between Matches
+### 13.4 Breaks Between Matches
    Matches will be conducted as per the schedule. Players must enter the lobby as quickly
    as possible after the completion of the previous match. The Host will not delay the start
    of the matches for late arriving players. Failure to return to the lobby on time may
    subject the player to penalties.
-PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                                            Page 22
+
    All team officials and players may not move or stay illegally in unauthorized places in
    any way during the time of the match, including breaks.
 
-14 Supplementary Rules
-   14.1 Host’s Rights
+## 14 Supplementary Rules
+### 14.1 Host’s Rights
    The Host reserves the right to collect, process, and use all results, records, and data
    relating to the Competition.
-   14.2 Relationship of Rights and Duties
+### 14.2 Relationship of Rights and Duties
      Teams and players shall not edit or disclose the competition-related content
      (regardless of the creator) externally through media such as the Internet without the
      prior consent of the Administration. If this obligation is breached, the Host may take
@@ -913,7 +767,7 @@ PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                              
      Information of all participants and results of the Competition will be published on the
      PUBG ESPORTS official website, pubgesports.com. Participating teams must
      reasonably cooperate with the process for gathering and posting information.
-   14.3 Promotions
+### 14.3 Promotions
      The Administration may request promotional activities such as competition-related
      events, marketing, advertisements, etc. from the participating teams, and all teams
      and players are obligated to cooperate with such requests unless there is an
@@ -925,23 +779,23 @@ PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                              
             Interviews
             Promotional videos
             Player profile photoshoots
-PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                                              Page 23
+
             Orientation, player training
             Fan meets and promotions for the Competition
             Competition-related subprograms
 
-   14.4 Confidentiality
+### 14.4 Confidentiality
    Team staff (managers, coaching staff, players, etc.) may not disclose confidential
    information obtained by themselves through participation in the Competition and any
    confidential information related to the Competition obtained from the Administration. The
    effect of this provision will continue after the Competition is over.
-   14.5 Defamation
+### 14.5 Defamation
    A Team or player is prohibited from in any way slandering, disparaging, or defaming any
    affiliates or officials including PUBG: BATTLEGROUNDS, Tournament Parties,
    Referees, and Team Handlers. The effect of this provision will continue after the
    Competition is over.
-   14.6 Quitting Competition
-          14.6.1 Quitting
+### 14.6 Quitting Competition
+#### 14.6.1 Quitting
           The team may not request to quit from the Competition until the end of all official
           PGC 2024 schedules, except where participation in PGC 2024 6 is not possible due
           to unavoidable reasons.
@@ -949,9 +803,7 @@ PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                              
           disaster or health reasons that prevent the team or members from participating in
           the Competition, the team must obtain prior approval from the Administration and
           submit written documents proving the reason.
-          14.6.2 Interfering with the Competition
+#### 14.6.2 Interfering with the Competition
           All teams are obligated to faithfully participate in the entire game, including all
           official schedules. If a single or multiple teams refuse to participate in the
           Competition without an acceptable reason, the team will be penalized.
-
-PUBG GLOBAL CHAMPIONSHIP 2024 – Tournament Rules                                                Page 24

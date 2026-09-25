@@ -28,8 +28,11 @@ TEMPERATURE = 0.3
 LLM_PROVIDER = os.getenv("LLM_PROVIDER", "openai")
 LLM_MODEL = os.getenv("LLM_MODEL", "")
 
-SYSTEM_PROMPT = """Trả lời chỉ từ context được cung cấp.
-Mỗi khẳng định phải có citation. Nếu thiếu evidence, hãy từ chối xác minh."""
+SYSTEM_PROMPT = """Trả lời câu hỏi nội dung chỉ từ context được cung cấp.
+Mỗi khẳng định về tài liệu phải có citation. Nếu thiếu evidence, hãy từ chối xác minh.
+Nếu người dùng chỉ chào hỏi, hãy chào lại ngắn và mời họ hỏi về tài liệu.
+ Không gắn nguồn cho lời chào. Các câu hỏi vu vơ hay không liên quan 
+ của người dùng thì vẫn sẽ trả lời theo kiểu hướng người dùng đến chủ đề chính."""
 
 
 def reorder_for_llm(chunks: list[dict]) -> list[dict]:
@@ -72,7 +75,7 @@ def _call_gemini(system_prompt: str, user_message: str, model: str) -> str:
     from google import genai
     client = genai.Client(api_key=os.getenv("GEMINI_API_KEY"))
     response = client.models.generate_content(
-        model=model or "gemini-1.5-flash",
+        model=model or "gemini-3.8-flash",
         contents=f"{system_prompt}\n\n{user_message}",
         config=genai.types.GenerateContentConfig(
             temperature=TEMPERATURE,

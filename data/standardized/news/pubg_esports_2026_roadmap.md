@@ -5,8 +5,6 @@
 
 ---
 
-<span class="fr-mk" style="display: none;">&nbsp;</span>
-
 A New Era Begins – PUBG Esports 2026
 
 Hey PUBG Esports fans,

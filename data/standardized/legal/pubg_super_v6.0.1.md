@@ -1,86 +1,7 @@
-SUPER
+# SUPER
 Standard and Universal PUBG Esports Ruleset
-                                                      Table of Contents
-1 Introduction to SUPER .......................................................................................................................... 4
-   1.1 Acceptance of SUPER ................................................................................................................... 4
-   1.2 Spirit of SUPER ............................................................................................................................. 4
-   1.3 Rule Changes ................................................................................................................................ 4
-2 Player Eligibility .................................................................................................................................... 5
-   2.1 Age ............................................................................................................................................... 5
-   2.2 Player Aliases ............................................................................................................................... 5
-   2.3 In-Game Nicknames ...................................................................................................................... 6
-   2.4 Multiple Entries ............................................................................................................................. 6
-   2.5 Conflict of Interest ........................................................................................................................ 6
-3 Team Eligibility ..................................................................................................................................... 6
-   3.1 Team Tags .................................................................................................................................... 6
-   3.2 Team Names ................................................................................................................................. 6
-   3.3 Native Roster Requirements .......................................................................................................... 7
-   3.4 Roster Rules .................................................................................................................................. 7
-   3.5 Team Ownership ........................................................................................................................... 8
-   3.6 Multiple Team Ownership ............................................................................................................. 8
-   3.7 Notice of Extraordinary Events ...................................................................................................... 9
-   3.8 Sponsorships ................................................................................................................................ 9
-4 Code of Conduct................................................................................................................................. 10
-   4.1 PUBG Terms of Service and Rules of Conduct. ............................................................................ 10
-   4.2 Best Ability .................................................................................................................................. 10
-   4.3 Collusion, i.e., Teaming, and Match-Fixing .................................................................................. 11
-   4.4 Betting and Gambling .................................................................................................................. 11
-   4.5 Bribery ........................................................................................................................................ 11
-   4.6 Exploiting and Hacking ................................................................................................................ 11
-   4.7 Cheating...................................................................................................................................... 12
-   4.8 Ringing........................................................................................................................................ 12
-   4.9 Intentional Disconnects ............................................................................................................... 12
-   4.10 Profanity and Hate Speech ........................................................................................................ 12
-   4.11 Disruptive and Abusive Behavior ............................................................................................... 12
-   4.12 Intentional Delaying of or Interfering with the Conduct of the Competition ................................ 12
-   4.13 Harassment and Sexual Harassment ......................................................................................... 12
-   4.14 Discrimination and Denigration ................................................................................................. 13
-   4.15 Criminal Activity ........................................................................................................................ 13
-   4.16 Confidentiality ........................................................................................................................... 13
-   4.17 Concluding the Competition ...................................................................................................... 13
-5 Broadcasts ......................................................................................................................................... 13
-   5.1 Ownership of Broadcasts ............................................................................................................ 13
-   5.2 Competitors Likeness ................................................................................................................. 14
-   5.3 Broadcasts by Competitors ......................................................................................................... 14
-   5.4 Team and Sponsor Names and Trademarks ................................................................................ 14
-6 Conduct Violations and Penalties ....................................................................................................... 14
-   6.1 Issuance of Penalties .................................................................................................................. 15
-   6.2 Publication of Penalties .............................................................................................................. 15
-7 Limitation of Liability .......................................................................................................................... 15
-   7.1 No Consequential Damages ........................................................................................................ 15
 
- SUPER – Standard and Universal PUBG Esports Ruleset                                                                                              Page 2
- Version 6.0.1 – Last Updated 2026.06.11
-   7.2 Cap on Liability ........................................................................................................................... 15
-   7.3 Limitation on Liability .................................................................................................................. 16
-   7.4 Disclaimer of Warranties ............................................................................................................. 16
-8 Interpretations ................................................................................................................................... 16
-9 In-Game Settings ............................................................................................................................... 16
-   9.1 Basic Game Settings ................................................................................................................... 16
-   9.2 Erangel Blue Zone Settings ......................................................................................................... 18
-   9.3 Erangel Vehicles ......................................................................................................................... 18
-   9.4 Miramar Blue Zone Settings ........................................................................................................ 19
-   9.5 Miramar Vehicles ........................................................................................................................ 19
-   9.6 Taego Blue Zone Settings ........................................................................................................... 20
-   9.7 Taego Vehicles ........................................................................................................................... 20
-   9.8 Vikendi Blue Zone Settings ......................................................................................................... 21
-   9.9 Vikendi Vehicles.......................................................................................................................... 21
-   9.10 Rondo Blue Zone Settings ......................................................................................................... 22
-   9.11 Rondo Vehicles ......................................................................................................................... 22
-10 In-Game Scoring .............................................................................................................................. 23
-  10.1 Kill Points .................................................................................................................................. 23
-  10.2 Placement Points ...................................................................................................................... 23
-  10.3 Match Points ............................................................................................................................. 23
-  10.4 Total Points............................................................................................................................... 23
-  10.5 Tie Breaker ............................................................................................................................... 23
-11 Changelog ........................................................................................................................................ 25
-
- SUPER – Standard and Universal PUBG Esports Ruleset                                                                                          Page 3
- Version 6.0.1 – Last Updated 2026.06.11
-                                                       SUPER
-                           Standard and Universal PUBG Esports Ruleset
-
-1 Introduction to SUPER
+## 1 Introduction to SUPER
 This Standard and Universal PUBG Esports Ruleset (“SUPER”) applies to all Teams (as defined in the
 applicable tournament participation agreement), Players and Team staff members (including e.g. owners,
 Representatives, coaches and managers) (collectively “Competitors”) in certain official competitions to be
@@ -93,7 +14,7 @@ tournament. Each Competition operated by Krafton or any third-party designated b
 such Competition (each, an “Administration”) shall have additional rules specific to that Competition (each,
 “Competition Specific Rules”).
 
-        1.1 Acceptance of SUPER
+### 1.1 Acceptance of SUPER
 
 By participating in the Competition, Competitors accept and agree to be bound by and comply with SUPER
 and any Competition Specific Rules and region or other specific rules.
@@ -102,7 +23,7 @@ SUPER and any Competition Specific Rules apply to all Competition places, includ
 practice rooms, personal resting space, hotel quarters, etc., and times, including official match times,
 practice times, personal training times, mealtimes, etc.
 
-        1.2 Spirit of SUPER
+### 1.2 Spirit of SUPER
 
 SUPER is a living document that is intended to establish and reinforce a positive and competitive
 environment that is defined by sportsmanship and integrity. SUPER will continually be refined and updated
@@ -111,7 +32,7 @@ the rules beyond their literal wording, prioritizing fair play and competitive i
 in all circumstances. Any attempt to gain an unfair advantage by exploiting loopholes or ambiguities in
 these rules is considered a violation of this spirit.
 
-        1.3 Rule Changes
+### 1.3 Rule Changes
 
 Krafton or Administration reserves the right to amend, remove, or make changes to SUPER or to issue any
 rules or regulations that apply to each applicable Competition for any reason at any time. When material
@@ -124,21 +45,19 @@ Competitors. Administration reserves the right to make judgement on cases not sp
 this document to preserve the spirit of fair play and sportsmanship. Competitors are expected to
 understand and operate on the latest version of these rules.
 
- SUPER – Standard and Universal PUBG Esports Ruleset                                                   Page 4
- Version 6.0.1 – Last Updated 2026.06.11
-2 Player Eligibility
+## 2 Player Eligibility
 Players on a Team competing in the Competition, including any coaches, managers or other staff members
 who are alternates eligible to play, (collectively, “Players”), must adhere to the following rules in addition to
 any eligibility requirements defined in Competition Specific Rules to be eligible to compete in a Competition
 
-        2.1 Age
+### 2.1 Age
 
         Unless otherwise expressly provided in the Competition Specific Rules or otherwise with
         Administration’s prior written approval, Players must have reached the age of majority and be at
         least 18 years of age in order to be eligible to participate. For purposes of clarity, Players must
         meet such age requirements as of the first day of the Competition to be eligible to participate.
 
-        2.2 Player Aliases
+### 2.2 Player Aliases
 
         Player Aliases are subject to approval by Administration. Administration reserves the right to deny
         the use of a Player Alias and require a change for any reason. Player Aliases may not exceed 12
@@ -171,9 +90,7 @@ any eligibility requirements defined in Competition Specific Rules to be eligibl
                   affiliates without the prior written approval of Krafton.
              •    Player Aliases must comply with the Code of Conduct.
 
- SUPER – Standard and Universal PUBG Esports Ruleset                                                     Page 5
- Version 6.0.1 – Last Updated 2026.06.11
-        2.3 In-Game Nicknames
+### 2.3 In-Game Nicknames
 
         In-Game Nicknames are subject to approval by Administration. Administration reserves the right
         to deny the use of an In-Game Nickname and require a change for any reason including to ensure
@@ -184,23 +101,23 @@ any eligibility requirements defined in Competition Specific Rules to be eligibl
 
         TAG_PlayerAlias
 
-        2.4 Multiple Entries
+### 2.4 Multiple Entries
 
         Players may not compete on more than one team or in more than one region during the same
         Competition. For the avoidance of doubt, once a Player registers on a team for any regional qualifier
         for the Competition, the Player may not register or participate for any other team or in any other
         qualifier for a different region for the same Competition.
 
-        2.5 Conflict of Interest
+### 2.5 Conflict of Interest
 
         Competitors may not be employees, directors, or officers of Krafton or Administration or any of
         their vendors related to the Competition.
 
-3 Team Eligibility
+## 3 Team Eligibility
 Teams must adhere to the following in addition to any eligibility requirements defined by the Competition
 Specific Rules to be eligible to compete in the Competition.
 
-        3.1 Team Tags
+### 3.1 Team Tags
 
         Teams are required to specify a Team Tag to be used in their players’ In-Game Nicknames. Team
         Tags are subject to approval by Administration. Administration reserves the right to deny the use
@@ -213,7 +130,7 @@ Specific Rules to be eligible to compete in the Competition.
         manner as provided in section 3.2 for Team Names. Team Tags must adhere to the Code of
         Conduct.
 
-        3.2 Team Names
+### 3.2 Team Names
 
         Administration reserves the right to deny the use of a Team Name and require a change for any
         reason. Team Names will be selected at the time of registration and may not be changed during
@@ -222,8 +139,6 @@ Specific Rules to be eligible to compete in the Competition.
              •    Team names may not include or resemble the name, trademarks, or other intellectual
                   property of any company that does not own or officially sponsor the Team.
 
- SUPER – Standard and Universal PUBG Esports Ruleset                                                 Page 6
- Version 6.0.1 – Last Updated 2026.06.11
             •  Team names may not include or resemble any product or service name or description.
             •  Team names may not violate privacy, publicity, intellectual property, or other rights of a
                third party.
@@ -242,7 +157,7 @@ Specific Rules to be eligible to compete in the Competition.
         limitation, a Team’s history of using the contested Team Name in PUBG Esports, and which Team
         first submitted said contested Team Name to the Administration.
 
-        3.3 Native Roster Requirements
+### 3.3 Native Roster Requirements
 
         Each team roster must consist of at least fifty percent (50%) of Players who are legal citizens or
         permanent residents from the region it registers to compete in. For the purpose of this section,
@@ -251,7 +166,7 @@ Specific Rules to be eligible to compete in the Competition.
         at least two (2) must be legal citizens or permanent residents. If the regional roster rules allow for
         five (5) members, then at least three (3) must be legal citizens or permanent residents.
 
-        3.4 Roster Rules
+### 3.4 Roster Rules
 
         Each team roster must comply with the following rules.
 
@@ -274,8 +189,6 @@ Specific Rules to be eligible to compete in the Competition.
              •    Each Team must designate one individual as its representative when completing the
                   registration process (“Team Representative”). The Team Representative will be
 
-SUPER – Standard and Universal PUBG Esports Ruleset                                                     Page 7
-Version 6.0.1 – Last Updated 2026.06.11
                   responsible for all Team communications with Administration. Administration may rely
                   upon any communications from the Team Representative as being made by all owners
                   or Players of the Team. A Team may not change its Team Representative during a
@@ -301,7 +214,7 @@ Version 6.0.1 – Last Updated 2026.06.11
              •    A Team may be issued a Match or Competition disqualification penalty if it fails to meet
                   the 3 Player minimum requirement for any reason.
 
-       3.5 Team Ownership
+### 3.5 Team Ownership
 
        A Team’s Slot or right to participation within a Competition will be held by the team. In the situation
        where the team is owned by a corporate entity, that corporate entity will hold the Slot. In the case
@@ -323,13 +236,11 @@ Version 6.0.1 – Last Updated 2026.06.11
        Note that to be eligible a Team’s roster must comply with section 3.4 regardless of any ownership
        change.
 
-       3.6 Multiple Team Ownership
+### 3.6 Multiple Team Ownership
 
        To preserve the integrity of the Competition, the following rules apply to any individual, entity or
        group that owns, operates, controls, or has an interest in a team that is competing in Competition.
 
-SUPER – Standard and Universal PUBG Esports Ruleset                                                    Page 8
-Version 6.0.1 – Last Updated 2026.06.11
             •    An individual, entity or group cannot directly or indirectly own or operate more than one
                  team globally.
             •    An individual, entity or group cannot directly or indirectly participate in the financing,
@@ -340,14 +251,14 @@ Version 6.0.1 – Last Updated 2026.06.11
                  different teams can enter into a business or financial relationship with a common interest
                  that can directly or indirectly benefit both parties based on performance in the competition.
 
-       3.7 Notice of Extraordinary Events
+### 3.7 Notice of Extraordinary Events
 
        Team owner or Team Representative shall notify Krafton and Administration as soon as practicable
        of any suspected or actual breach of SUPER by the Team or any of its Competitors.
 
-       3.8 Sponsorships
+### 3.8 Sponsorships
 
-                 3.8.1 Sponsorship Restrictions
+#### 3.8.1 Sponsorship Restrictions
 
                 Teams are prohibited from having sponsorships that:
 
@@ -378,9 +289,7 @@ Version 6.0.1 – Last Updated 2026.06.11
                 ⑫ Teams must, in good faith, seek prior written approval from the Host for any potential sponsors
                      not listed above that may be considered “ineligible sponsors”
 
-SUPER – Standard and Universal PUBG Esports Ruleset                                                            Page 9
-Version 6.0.1 – Last Updated 2026.06.11
-                  3.8.2 Additional Provisions
+#### 3.8.2 Additional Provisions
 
                   •   The list of prohibited product or service categories may be updated periodically by Krafton or
                       the Administration.
@@ -397,19 +306,19 @@ Version 6.0.1 – Last Updated 2026.06.11
                   •   Teams and Players shall indemnify, defend, and hold harmless Krafton, its affiliates, the
                       Administration, and Krafton’s broadcast partners from any such Damages.
 
-                  3.8.3 Disclaimer
+#### 3.8.3 Disclaimer
 
                   The Host’s non-objection to any sponsor shall not be considered an explicit approval.
                   Teams remain solely responsible for their sponsorships and ensuring full compliance with
                   applicable laws. The Host and the Administration shall not be held responsible or liable for
                   any Team’s choice or use of such sponsors.
 
-4 Code of Conduct
+## 4 Code of Conduct
 Competitors must always abide by the following Code of Conduct. By participating in the Competition,
 Competitors agree to abide by these rules and any instructions or decisions of Administration and
 conduct themselves in a positive and professional manner.
 
-        4.1 PUBG Terms of Service and Rules of Conduct.
+### 4.1 PUBG Terms of Service and Rules of Conduct.
 
         Competitors shall comply with the PUBG Terms of Service. The full PUBG Terms of Service can be
         found here: https://pubg.com/en/clause/term_of_service. Competitors shall comply with the
@@ -420,23 +329,21 @@ conduct themselves in a positive and professional manner.
 
         The PUBG esports website can be found here: https://www.pubgesports.com/
 
-        4.2 Best Ability
+### 4.2 Best Ability
 
         Competitors must always attempt to compete at their best ability and use their best effort during
         any match and avoid any behavior that is inconsistent with principles of sportsmanship, honesty,
         integrity, and fair play. Any attempt to circumvent the intent of these Rules through the use of
         technicalities or loopholes is strictly prohibited.
 
- SUPER – Standard and Universal PUBG Esports Ruleset                                                             Page 10
- Version 6.0.1 – Last Updated 2026.06.11
-       4.3 Competitive Integrity
+### 4.3 Competitive Integrity
 
        All Participants must compete in a manner that upholds the principles of competitive integrity, fair
        play, and honest competition.Any conduct that, while not explicitly prohibited by these
        Rules,undermines the integrity, fairness, or public trust of the competition may be subject to review
        and sanction by the Administration.
 
-       4.4 Collusion, i.e., Teaming, and Match-Fixing
+### 4.4 Collusion, i.e., Teaming, and Match-Fixing
 
        Competitors shall not participate in any act of collusion or match-fixing. Collusion, also referred
        to as Teaming, is defined as any agreement between two or more Competitors to cheat, deceive,
@@ -456,7 +363,7 @@ conduct themselves in a positive and professional manner.
        can be considered Collusion, Teaming and/or Match-Fixing is at the sole discretion of the
        Administration, as is the appropriate punishment.
 
-       4.5 Betting and Gambling
+### 4.5 Betting and Gambling
 
        Competitors shall not participate in any act of betting or gambling related to PUBG. Betting is
        defined as the act of wagering money (cash, cash equivalent, credit of monetary value, or any other
@@ -465,45 +372,43 @@ conduct themselves in a positive and professional manner.
        of bets on any match. No Competitor may benefit directly or indirectly from gambling on any result
        of any matches or the Competition as a whole, or another competition as a whole.
 
-       4.6 Bribery
+### 4.6 Bribery
 
        Competitors shall not participate in any act of bribery. Bribery is defined as the act of offering
        compensation or anything else of value to influence the judgement or conduct of a person.
        Competitors must never offer or receive any form of compensation to or from another Competitor
        or any other person to attempt to gain or give an unfair advantage in the Competition.
 
-       4.7 Exploiting and Hacking
+### 4.7 Exploiting and Hacking
 
        Competitors shall not participate in any act of exploiting or hacking. Exploiting is defined as the
        use of an in-game bug or glitch in a manner not intended by the designers to seek an unfair
        advantage. Hacking is defined as any modification of hardware, software, game client, or internet
        connection.
 
-SUPER – Standard and Universal PUBG Esports Ruleset                                                Page 11
-Version 6.0.1 – Last Updated 2026.06.11
-       4.8 Cheating
+### 4.8 Cheating
 
        Competitors shall not cheat by using any kind of device, program, or any other method or activity
        that may gain or give an unfair advantage.
 
-       4.9 Ringing
+### 4.9 Ringing
 
        Competitors shall not participate in any act of ringing. Ringing is defined as playing under another
        Competitor’s account.
 
-       4.10 Intentional Disconnects
+### 4.10 Intentional Disconnects
 
        Competitors shall not intentionally disconnect from a match by any action (e.g., quitting the match,
        turning off PC, unplugging ethernet cable, etc.). Any action from a Competitor that causes a
        disconnect shall be deemed intentional regardless of the intent.
 
-       4.11 Profanity and Hate Speech
+### 4.11 Profanity and Hate Speech
 
        Competitors shall not use language that is obscene, foul, vulgar, insulting, threatening, abusive,
        libelous, slanderous, defamatory, or otherwise offensive. Competitors shall not engage in or incite
        hatred or discriminatory conduct.
 
-       4.12 Disruptive and Abusive Behavior
+### 4.12 Disruptive and Abusive Behavior
 
        Competitors shall not take any action or perform any gesture which is insulting, mocking, disruptive,
        or antagonistic. A Competition may be conducted and broadcast in any country and include Teams
@@ -513,7 +418,7 @@ Version 6.0.1 – Last Updated 2026.06.11
        insulting, mocking, disruptive, or antagonistic. All determinations of any disruptive or abusive
        behavior are at the sole discretion of the Administration.
 
-       4.13 Intentional Delaying of or Interfering with the Conduct of the Competition
+### 4.13 Intentional Delaying of or Interfering with the Conduct of the Competition
 
        Competitors shall not intentionally delay or interfere with the conduct of the Competition through
        any means, including:
@@ -526,34 +431,32 @@ Version 6.0.1 – Last Updated 2026.06.11
        The determination of whether a Competitor and/or Team(s) action can be considered in violation
        of this Section 4.13 is at the sole discretion of the Administration, as is the appropriate punishment.
 
-       4.14 Harassment and Sexual Harassment
+### 4.14 Harassment and Sexual Harassment
 
        Competitors shall not participate in any act of harassment. Harassment can include systematic,
        hostile, and repeated acts which are intended to isolate or ostracize a person and/or affect the
        dignity of a person. Unwelcome sexual advances of any kind are strictly prohibited.
 
-SUPER – Standard and Universal PUBG Esports Ruleset                                                  Page 12
-Version 6.0.1 – Last Updated 2026.06.11
-       4.15 Discrimination and Denigration
+### 4.15 Discrimination and Denigration
 
        Competitors shall not offend the dignity or integrity of a country, person, or group of people through
        contemptuous or discriminatory words or actions based on race, ethnicity, national origin, social
        origin, gender, language, religion, political opinion, financial status, birth status, sexual orientation,
        or any other reason.
 
-       4.16 Criminal Activity
+### 4.16 Criminal Activity
 
        Competitors shall not engage in any activity which is prohibited by common law, statute, or treaty
        and which leads to or may be reasonably deemed likely to lead to conviction in any court of
        competent jurisdiction.
 
-       4.17 Confidentiality
+### 4.17 Confidentiality
 
        Competitors shall not disclose any confidential information by any method of communication
        including all social media channels. All communication with Administration is strictly confidential.
        The publication of such material without explicit written consent is strictly prohibited.
 
-       4.18 Concluding the Competition
+### 4.18 Concluding the Competition
 
        Upon initiating participation in a Competition, Teams and Competitors shall continue to participate
        in the Competition to its conclusion. Teams and Competitors shall not refuse to participate in the
@@ -561,7 +464,7 @@ Version 6.0.1 – Last Updated 2026.06.11
        Administration, an accusation regarding competitive integrity of the Competition, or imperfect
        playing conditions.
 
-       4.19 Anti-Doping
+### 4.19 Anti-Doping
 
        All Competitors must respect and comply with the principles and standards set forth by the World
        Anti-Doping Agency (WADA). The use of substances or methods included in the WADA Prohibited
@@ -569,8 +472,8 @@ Version 6.0.1 – Last Updated 2026.06.11
        reserves the right to request doping test results or additional medical documentation from
        Competitors whenever deemed necessary.
 
-5 Broadcasts
-       5.1 Ownership of Broadcasts
+## 5 Broadcasts
+### 5.1 Ownership of Broadcasts
 
             •    Krafton (or its licensors) shall exclusively own all right, title, and interest, including all
                  related intellectual property rights, in and to the Game, any esports program that features
@@ -583,9 +486,7 @@ Version 6.0.1 – Last Updated 2026.06.11
             •    Krafton (and its licensors, where applicable) shall exclusively own all right, title and interest,
                  including all related intellectual property rights, in and to any broadcasts of the Competition.
 
-SUPER – Standard and Universal PUBG Esports Ruleset                                                      Page 13
-Version 6.0.1 – Last Updated 2026.06.11
-        5.2 Competitors Likeness
+### 5.2 Competitors Likeness
 
         By participating, each Competitor grants Krafton and Administration the right to use such
         Competitor’s Likeness for publicity purposes, including without limitation broadcast of the
@@ -600,12 +501,12 @@ Version 6.0.1 – Last Updated 2026.06.11
         in perpetuity, in connection with Publicizing the Competition, without any compensation or prior
         approval unless specifically prohibited by any applicable law.
 
-        5.3 Broadcasts by Competitors
+### 5.3 Broadcasts by Competitors
 
         Teams and Competitors will not broadcast the Competition or any matches or portions thereof
         without advance written permission of Krafton.
 
-        5.4 Team and Sponsor Names and Trademarks
+### 5.4 Team and Sponsor Names and Trademarks
 
         By participating in a Competition, each Team grants Krafton and Administration the right to use
         Team’s intellectual property, including but not limited to, name or trademark for the
@@ -622,7 +523,7 @@ Version 6.0.1 – Last Updated 2026.06.11
         the aforementioned publicity purposes in Section 5.2, without any compensation or prior approval
         unless specifically prohibited by any applicable law.
 
-6 Conduct Violations and Penalties
+## 6 Conduct Violations and Penalties
 Competitors who fail to abide by these official rules or Code of Conduct may be subject to penalties, fines,
 suspensions, or bans as deemed necessary and appropriate by Administration.
 
@@ -631,9 +532,7 @@ shall not withhold information from Administration during an investigation. Duri
 Competitors must adhere to the instructions of Administration and supply complete and accurate
 information. Competitors shall never create any obstruction to an investigation.
 
- SUPER – Standard and Universal PUBG Esports Ruleset                                                 Page 14
- Version 6.0.1 – Last Updated 2026.06.11
-       6.1 Issuance of Penalties
+### 6.1 Issuance of Penalties
 
        Administration reserves the right to issue, without limitation of its authority, penalties at its sole
        discretion upon discovery of any conduct or rule violations in accordance with the severity of the
@@ -649,7 +548,7 @@ information. Competitors shall never create any obstruction to an investigation.
             •    Disqualification(s)
             •    Suspension(s) or Ban(s)
 
-       6.2 Publication of Penalties
+### 6.2 Publication of Penalties
 
        Administration reserves the right to publish any information regarding any violation of these official
        rules or Code of Conduct. By participating in the Competition, Teams and Competitors hereby
@@ -659,8 +558,8 @@ information. Competitors shall never create any obstruction to an investigation.
        Team and Competitors waive any right to bring a claim in court for Administration’s decision or any
        remedies there of.
 
-7 Limitation of Liability
-       7.1 No Consequential Damages
+## 7 Limitation of Liability
+### 7.1 No Consequential Damages
 
        To the maximum extent permitted by applicable law, neither Krafton, Administration nor any of their
        respective affiliates, partners, sponsors, service providers, suppliers, officers, directors, managers,
@@ -670,7 +569,7 @@ information. Competitors shall never create any obstruction to an investigation.
        or inability to use or lack of functionality of the Game, even if a Krafton Party is at fault and even if
        a Krafton Party is aware of the possibility of such damages.
 
-       7.2 Cap on Liability
+### 7.2 Cap on Liability
 
        To the maximum extent permitted by applicable law, the aggregate liability of the Krafton Parties
        arising out of or in connection with SUPER, any Competitions, and PUBG will be limited to a Team
@@ -678,9 +577,7 @@ information. Competitors shall never create any obstruction to an investigation.
        expand this limitation. These limitations and exclusions regarding damages apply even if any
        remedy fails to provide adequate compensation.
 
-SUPER – Standard and Universal PUBG Esports Ruleset                                                      Page 15
-Version 6.0.1 – Last Updated 2026.06.11
-        7.3 Limitation on Liability
+### 7.3 Limitation on Liability
 
         Krafton Parties shall not be liable for: (i) internet, telephone system, telephone, or computer
         hardware, software, or other technical or computer malfunctions, lost connections, disconnections,
@@ -690,7 +587,7 @@ Version 6.0.1 – Last Updated 2026.06.11
         participation in the Competition; or (iv) any printing, typographical, administrative, or technological
         errors in any materials associated with the Competition.
 
-        7.4 Disclaimer of Warranties
+### 7.4 Disclaimer of Warranties
 
         KRAFTON PARTIES DO NOT GUARANTEE CONTINUOUS, ERROR-FREE, VIRUS-FREE, OR SECURE
         OPERATION OF OR ACCESS TO THE GAME. THE GAME AND THE COMPETITION ARE PROVIDED
@@ -706,7 +603,7 @@ Version 6.0.1 – Last Updated 2026.06.11
         ALLEGED TO ARISE UNDER LAW, BY REASON OF CUSTOM OR USAGE IN THE TRADE, OR COURSE
         OF DEALING. THIS PARAGRAPH WILL APPLY TO THE MAXIMUM EXTENT PERMITTED BY LAW.
 
-8 Interpretations
+## 8 Interpretations
 In the event of any conflict between SUPER and the Competition Specific Rules, SUPER shall prevail except
 to the extent specifically stated otherwise in the Competition Specific Rules. Competitors are subject to
 the Rules not only during the Competition and while on-camera. Competitors may be required to accept
@@ -717,171 +614,164 @@ provided to the Teams from time to time in the form of an update to, or interpre
 or Administration’s determination thereof will be final and binding. Krafton has the authority to take actions
 in the best interests of the Competition, PUBG and PUBG esports.
 
-9 In-Game Settings
+## 9 In-Game Settings
 Every match in the Competition will use Esports Mode Settings. For the avoidance of doubt, Esports
 Mode Settings are identical to Ranked Mode Settings. All settings shall remain default unless explicitly
 stated below. Administration reserves the right to make changes to In-Game Settings for any reason at
 any time. Administration may make temporary adjustments to In-Game Settings in order to help mitigate
 the impact of any in-game bug.
 
-        9.1 Basic Game Settings
+### 9.1 Basic Game Settings
 
                                           Match Settings: Game Settings
 
- SUPER – Standard and Universal PUBG Esports Ruleset                                                  Page 16
- Version 6.0.1 – Last Updated 2026.06.11
-              Map                                     Erangel, Miramar, Taego, Rondo
-              Perspective                                          TPP
-              Players                                              64
-              Team Players                                          4
-              Weather                                             Sunny
+| Map | Erangel, Miramar, Taego, Rondo |
+| --- | --- |
+| Perspective | TPP |
+| Players | 64 |
+| Team Players | 4 |
+| Weather | Sunny |
 
-SUPER – Standard and Universal PUBG Esports Ruleset                                    Page 17
-Version 6.0.1 – Last Updated 2026.06.11
-          9.2 Erangel Blue Zone Settings
+### 9.2 Erangel Blue Zone Settings
 
-                  Delay            Wait           Move     DPS         Shrink       Spread      Land Ratio
-Phase 1            90              180              240    0.6          0.33          0.5           0
-Phase 2                             60              120    0.8          0.55         0.56           0
-Phase 3                             60              120     1           0.6          0.56           0
-Phase 4                             60              120     3           0.6          0.56           0
-Phase 5                             60              120     5           0.65         0.56           0
-Phase 6                             60              120     8           0.65         0.56           0
-Phase 7                             60              90     10           0.65         0.56           0
-Phase 8                             60              60     14           0.65         0.56           0
-Phase 9                             10              120    18          0.001          10            0
+|  | Delay | Wait | Move | DPS | Shrink | Spread | Land Ratio |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Phase 1 | 90 | 180 | 240 | 0.6 | 0.33 | 0.5 | 0 |
+| Phase 2 |  | 60 | 120 | 0.8 | 0.55 | 0.56 | 0 |
+| Phase 3 |  | 60 | 120 | 1 | 0.6 | 0.56 | 0 |
+| Phase 4 |  | 60 | 120 | 3 | 0.6 | 0.56 | 0 |
+| Phase 5 |  | 60 | 120 | 5 | 0.65 | 0.56 | 0 |
+| Phase 6 |  | 60 | 120 | 8 | 0.65 | 0.56 | 0 |
+| Phase 7 |  | 60 | 90 | 10 | 0.65 | 0.56 | 0 |
+| Phase 8 |  | 60 | 60 | 14 | 0.65 | 0.56 | 0 |
+| Phase 9 |  | 10 | 120 | 18 | 0.001 | 10 | 0 |
 
-          9.3 Erangel Vehicles
+### 9.3 Erangel Vehicles
 
                     ◼ Vehicles: In addition to the random vehicle spawns, fixed vehicle spawns have been
                     added to Erangel.
                     ◼ Boats: Boats will only and always spawn at the Light Blue dots.
 
-   SUPER – Standard and Universal PUBG Esports Ruleset                                          Page 18
-   Version 6.0.1 – Last Updated 2026.06.11
-          9.4 Miramar Blue Zone Settings
+### 9.4 Miramar Blue Zone Settings
 
-                  Delay            Wait           Move     DPS         Shrink        Spread      Land Ratio
-Phase 1            90              180              240     0.6         0.33           0.5           0
-Phase 2                             60              120     0.8         0.55          0.56           0
-Phase 3                             60              120     1            0.6          0.56           0
-Phase 4                             60              120     3            0.6          0.56           0
-Phase 5                             60              120     5           0.65          0.56           0
-Phase 6                             60              120     8           0.65          0.56           0
-Phase 7                             60              90      10          0.65          0.56           0
-Phase 8                             60              60      14          0.65          0.56           0
-Phase 9                             10              120     18          0.001          10            0
+|  | Delay | Wait | Move | DPS | Shrink | Spread | Land Ratio |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Phase 1 | 90 | 180 | 240 | 0.6 | 0.33 | 0.5 | 0 |
+| Phase 2 |  | 60 | 120 | 0.8 | 0.55 | 0.56 | 0 |
+| Phase 3 |  | 60 | 120 | 1 | 0.6 | 0.56 | 0 |
+| Phase 4 |  | 60 | 120 | 3 | 0.6 | 0.56 | 0 |
+| Phase 5 |  | 60 | 120 | 5 | 0.65 | 0.56 | 0 |
+| Phase 6 |  | 60 | 120 | 8 | 0.65 | 0.56 | 0 |
+| Phase 7 |  | 60 | 90 | 10 | 0.65 | 0.56 | 0 |
+| Phase 8 |  | 60 | 60 | 14 | 0.65 | 0.56 | 0 |
+| Phase 9 |  | 10 | 120 | 18 | 0.001 | 10 | 0 |
 
-          9.5 Miramar Vehicles
+### 9.5 Miramar Vehicles
 
                      ◼ Vehicles: In addition to the random vehicle spawns, fixed vehicle spawns have been
                     added to Miramar.
                      ◼ Boats: Boats will only and always spawn at the Light Blue dots.
 
-   SUPER – Standard and Universal PUBG Esports Ruleset                                           Page 19
-   Version 6.0.1 – Last Updated 2026.06.11
-          9.6 Taego Blue Zone Settings
+### 9.6 Taego Blue Zone Settings
 
-                  Delay            Wait           Move     DPS         Shrink       Spread      Land Ratio
-Phase 1            90              180              240    0.6          0.33          0.5           0
-Phase 2                             60              120    0.8          0.55         0.56           0
-Phase 3                             60              120     1           0.6          0.56           0
-Phase 4                             60              120     3           0.6          0.56           0
-Phase 5                             60              120     5           0.65         0.56           0
-Phase 6                             60              120     8           0.65         0.56           0
-Phase 7                             60              90     10           0.65         0.56           0
-Phase 8                             60              60     14           0.65         0.56           0
-Phase 9                             10              120    18          0.001          10            0
+|  | Delay | Wait | Move | DPS | Shrink | Spread | Land Ratio |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Phase 1 | 90 | 180 | 240 | 0.6 | 0.33 | 0.5 | 0 |
+| Phase 2 |  | 60 | 120 | 0.8 | 0.55 | 0.56 | 0 |
+| Phase 3 |  | 60 | 120 | 1 | 0.6 | 0.56 | 0 |
+| Phase 4 |  | 60 | 120 | 3 | 0.6 | 0.56 | 0 |
+| Phase 5 |  | 60 | 120 | 5 | 0.65 | 0.56 | 0 |
+| Phase 6 |  | 60 | 120 | 8 | 0.65 | 0.56 | 0 |
+| Phase 7 |  | 60 | 90 | 10 | 0.65 | 0.56 | 0 |
+| Phase 8 |  | 60 | 60 | 14 | 0.65 | 0.56 | 0 |
+| Phase 9 |  | 10 | 120 | 18 | 0.001 | 10 | 0 |
 
-          9.7 Taego Vehicles
+### 9.7 Taego Vehicles
 
                     ◼ Vehicles: In addition to the random vehicle spawns, fixed vehicle spawns have been
                     added to Taego.
                     ◼ Boats: Boats will only and always spawn at the Light Blue dots.
                     ◼ Garages: Garages can be found at the Pink dots.
 
-   SUPER – Standard and Universal PUBG Esports Ruleset                                          Page 20
-   Version 6.0.1 – Last Updated 2026.06.11
-          9.8 Vikendi Blue Zone Settings
+### 9.8 Vikendi Blue Zone Settings
 
-                  Delay            Wait           Move     DPS         Shrink       Spread      Land Ratio
-Phase 1            90              180              240    0.6          0.33          0.5           0
-Phase 2                             60              120    0.8          0.55         0.56           0
-Phase 3                             60              120     1           0.6          0.56           0
-Phase 4                             60              120     3           0.6          0.56           0
-Phase 5                             60              120     5           0.65         0.56           0
-Phase 6                             60              120     8           0.65         0.56           0
-Phase 7                             60              90     10           0.65         0.56           0
-Phase 8                             60              60     14           0.65         0.56           0
-Phase 9                             10              120    18          0.001          10            0
+|  | Delay | Wait | Move | DPS | Shrink | Spread | Land Ratio |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Phase 1 | 90 | 180 | 240 | 0.6 | 0.33 | 0.5 | 0 |
+| Phase 2 |  | 60 | 120 | 0.8 | 0.55 | 0.56 | 0 |
+| Phase 3 |  | 60 | 120 | 1 | 0.6 | 0.56 | 0 |
+| Phase 4 |  | 60 | 120 | 3 | 0.6 | 0.56 | 0 |
+| Phase 5 |  | 60 | 120 | 5 | 0.65 | 0.56 | 0 |
+| Phase 6 |  | 60 | 120 | 8 | 0.65 | 0.56 | 0 |
+| Phase 7 |  | 60 | 90 | 10 | 0.65 | 0.56 | 0 |
+| Phase 8 |  | 60 | 60 | 14 | 0.65 | 0.56 | 0 |
+| Phase 9 |  | 10 | 120 | 18 | 0.001 | 10 | 0 |
 
-          9.9 Vikendi Vehicles
+### 9.9 Vikendi Vehicles
 
                     ◼ Vehicles: In addition to the random vehicle spawns, fixed vehicle spawns have been
                     added to Vikendi.
                     ◼ Boats: Boats will only and always spawn at the Light Blue dots.
                     ◼ Garages: Garages can be found at the Pink dots.
 
-   SUPER – Standard and Universal PUBG Esports Ruleset                                          Page 21
-   Version 6.0.1 – Last Updated 2026.06.11
-          9.10 Rondo Blue Zone Settings
+### 9.10 Rondo Blue Zone Settings
 
-                  Delay            Wait           Move     DPS         Shrink       Spread      Land Ratio
-Phase 1            90              180              240    0.6          0.33          0.5           0
-Phase 2                             60              120    0.8          0.55         0.56           0
-Phase 3                             60              120     1           0.6          0.56           0
-Phase 4                             60              120     3           0.6          0.56           0
-Phase 5                             60              120     5           0.65         0.56           0
-Phase 6                             60              120     8           0.65         0.56           0
-Phase 7                             60              90     10           0.65         0.56           0
-Phase 8                             60              60     14           0.65         0.56           0
-Phase 9                             10              120    18          0.001          10            0
+|  | Delay | Wait | Move | DPS | Shrink | Spread | Land Ratio |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| Phase 1 | 90 | 180 | 240 | 0.6 | 0.33 | 0.5 | 0 |
+| Phase 2 |  | 60 | 120 | 0.8 | 0.55 | 0.56 | 0 |
+| Phase 3 |  | 60 | 120 | 1 | 0.6 | 0.56 | 0 |
+| Phase 4 |  | 60 | 120 | 3 | 0.6 | 0.56 | 0 |
+| Phase 5 |  | 60 | 120 | 5 | 0.65 | 0.56 | 0 |
+| Phase 6 |  | 60 | 120 | 8 | 0.65 | 0.56 | 0 |
+| Phase 7 |  | 60 | 90 | 10 | 0.65 | 0.56 | 0 |
+| Phase 8 |  | 60 | 60 | 14 | 0.65 | 0.56 | 0 |
+| Phase 9 |  | 10 | 120 | 18 | 0.001 | 10 | 0 |
 
-          9.11 Rondo Vehicles
+### 9.11 Rondo Vehicles
 
                     ◼ Vehicles: In addition to the random vehicle spawns, fixed vehicle spawns have been
                     added to Rondo.
                     ◼ Boats: Boats will only and always spawn at the Light Blue dots.
                     ◼ Garages: Garages can be found at the Pink dots.
 
-   SUPER – Standard and Universal PUBG Esports Ruleset                                          Page 22
-   Version 6.0.1 – Last Updated 2026.06.11
-10 In-Game Scoring
+## 10 In-Game Scoring
        Every match in the Competition will award Points in accordance with the following scoring system.
 
-       10.1 Kill Points
+### 10.1 Kill Points
 
        Kill Points are awarded to Teams based on the number of Kills the Team accumulates during each
        match. A Team will earn one (1) Kill Point per Kill.
 
-       10.2 Placement Points
+### 10.2 Placement Points
 
        Placement Points are awarded to Teams based on their finishing position at the end of each match.
        Teams will accumulate Placement Points based on the following matrix.
 
-                  Placement                     Point
-                      1                           10
-                      2                           6
-                      3                           5
-                      4                           4
-                      5                           3
-                      6                           2
-                      7                           1
-                      8                           1
-                    9 - 16                        0
+| Placement | Point |
+| --- | --- |
+| 1 | 10 |
+| 2 | 6 |
+| 3 | 5 |
+| 4 | 4 |
+| 5 | 3 |
+| 6 | 2 |
+| 7 | 1 |
+| 8 | 1 |
+| 9 - 16 | 0 |
 
-       10.3 Match Points
+### 10.3 Match Points
 
        A Team’s Match Points is the sum of their Kill Points and Placement Points.
        -   Kill Points + Placement Points = Match Points
        For example, a Team who accumulates 10 Kills and finishes the match in the 3 rd position will earn
        15 Match Points (10 + 5 = 15).
 
-       10.4 Total Points
+### 10.4 Total Points
 
        A Team’s Total Points is the sum of all Match Points accumulated during a set period of time.
 
-       10.5 Tie Breaker
+### 10.5 Tie Breaker
 
        In the event that two or more Teams have the same number of Total Points, the following rules
        shall be applied to break the tie.
@@ -892,8 +782,6 @@ Phase 9                             10              120    18          0.001    
                   ② If ① is a tie, teams with higher Placement will be ranked higher.
              2.   Accumulated point
 
-SUPER – Standard and Universal PUBG Esports Ruleset                                              Page 23
-Version 6.0.1 – Last Updated 2026.06.11
                   ①    The final ranking is determined by the accumulated Match Points (Placement Point
                        + Kill Point) for all matches
                   ②    If ① is a tie, teams with the higher accumulated Placement Point (excluding the Kill
@@ -905,59 +793,30 @@ Version 6.0.1 – Last Updated 2026.06.11
                   ⑤    If ④ is a tie, teams with the higher Total Damage on the most recent match will be
                        ranked higher
 
-SUPER – Standard and Universal PUBG Esports Ruleset                                                  Page 24
-Version 6.0.1 – Last Updated 2026.06.11
-11 Changelog
+## 11 Changelog
 Any material changes to this document will be listed in this Changelog section and communicated directly
 to Competitors via the appropriate channels.
 
-    Version           Date Updated                                           Note
-
-  Version 2.0.0        2020.02.19        Updated for PUBG Esports 2020 Season.
-
-  Version 2.1.0        2020.06.03        Updated for PCS format.
-
-  Version 2.1.1        2020.07.27        Updated In-Game Settings.
-                                         Clarified Age Eligibility. Added sections on Team Ownership and Roster
-  Version 2.2.0        2020.09.15
-                                         Rules.
-  Version 2.2.1        2020.12.30        Updated In-Game Settings.
-
-  Version 3.0.0        2021.04.08        Updates throughout in advance of PUBG Esports 2021 Season.
-
-  Version 3.0.1        2021.09.15        Updated Team Eligibility and PGC 2021 Roster rules.
-
-  Version 3.0.2        2021.11.12        Deleted for Most Chicken Rule. (MC Rule)
-
-  Version 3.0.3        2022.02.08        Deleted for PGC 2021 – Roster Rules and Visa Policies.
-
-  Version 3.0.4        2022.06.02        Updated for Tie Breaker.
-
-  Version 3.0.5        2023.02.08        Updated In-Game Settings.
-
-  Version 4.0.0        2023.05.02        Updated In-Game Settings – Ranked Mode Alignment.
-
-  Version 4.0.1        2023.08.28        Updated Vikendi.
-
-  Version 4.0.2        2023.10.20        Updated Erangel.
-
-  Version 5.0.0        2024.03.01        Updated Player Aliases and Roster Rules.
-                                         Updated rules to account for new map Rondo, Player Aliases, Team
-                                         Names, Conflict of Interests, Roster Rules, Grant of Team and Team
-  Version 5.0.1        2024.06.10
-                                         Sponsor Intellectual Property Rights, and rules surrounding Krafton’s right
-                                         to edit/blur certain Team Sponsorships.
-  Version 5.0.2        2024.10.15        Updated Taego.
-
-  Version 5.0.3        2025.07.07        Updated Roster Rules.
-
-  Version 5.0.4        2025.09.22        Updated Terminology.
-                                         Strengthened sportsmanship and competitive integrity; introduced the
-                                         principle of accountability regardless of intent; established anti-doping
-  Version 6.0.0        2026.02.03
-                                         clauses; reflected TPP perspective and virtual asset sponsorship
-                                         restrictions.
-  Version 6.0.1        2026.06.11        Updated Ingame-Settings
-
- SUPER – Standard and Universal PUBG Esports Ruleset                                                           Page 25
- Version 6.0.1 – Last Updated 2026.06.11
+| Version | Date Updated | Note |
+| --- | --- | --- |
+| Version 2.0.0 | 2020.02.19 | Updated for PUBG Esports 2020 Season. |
+| Version 2.1.0 | 2020.06.03 | Updated for PCS format. |
+| Version 2.1.1 | 2020.07.27 | Updated In-Game Settings.<br>Clarified Age Eligibility. Added sections on Team Ownership and Roster |
+| Version 2.2.0 | 2020.09.15 | Rules. |
+| Version 2.2.1 | 2020.12.30 | Updated In-Game Settings. |
+| Version 3.0.0 | 2021.04.08 | Updates throughout in advance of PUBG Esports 2021 Season. |
+| Version 3.0.1 | 2021.09.15 | Updated Team Eligibility and PGC 2021 Roster rules. |
+| Version 3.0.2 | 2021.11.12 | Deleted for Most Chicken Rule. (MC Rule) |
+| Version 3.0.3 | 2022.02.08 | Deleted for PGC 2021 – Roster Rules and Visa Policies. |
+| Version 3.0.4 | 2022.06.02 | Updated for Tie Breaker. |
+| Version 3.0.5 | 2023.02.08 | Updated In-Game Settings. |
+| Version 4.0.0 | 2023.05.02 | Updated In-Game Settings – Ranked Mode Alignment. |
+| Version 4.0.1 | 2023.08.28 | Updated Vikendi. |
+| Version 4.0.2 | 2023.10.20 | Updated Erangel. |
+| Version 5.0.0 | 2024.03.01 | Updated Player Aliases and Roster Rules.<br>Updated rules to account for new map Rondo, Player Aliases, Team |
+| Version 5.0.1 | 2024.06.10 | Names, Conflict of Interests, Roster Rules, Grant of Team and Team<br>Sponsor Intellectual Property Rights, and rules surrounding Krafton’s right |
+| Version 5.0.2 | 2024.10.15 | to edit/blur certain Team Sponsorships.<br>Updated Taego. |
+| Version 5.0.3 | 2025.07.07 | Updated Roster Rules. |
+| Version 5.0.4 | 2025.09.22 | Updated Terminology.<br>Strengthened sportsmanship and competitive integrity; introduced the |
+| Version 6.0.0 | 2026.02.03 | principle of accountability regardless of intent; established anti-doping<br>clauses; reflected TPP perspective and virtual asset sponsorship |
+| Version 6.0.1 | 2026.06.11 | restrictions.<br>Updated Ingame-Settings |
